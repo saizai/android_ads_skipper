@@ -9,7 +9,7 @@
           (
             fn:matches(
               @android:contentDescription|@android:text[not(../@android:editable='true')],
-              \”^(Werbung überspringen|略過廣告|Skip ads?|Ignorer l'annonce|Close ad panel$\"
+              \"^(Werbung überspringen|略過廣告|Skip ads?|Ignorer l'annonce|Close ad panel)$\"
             )
           ) or 
           (
@@ -20,7 +20,7 @@
           (
             fn:matches(
               @android:id,
-              '^(@com.google.android.apps.youtube.music:id/dismiss|@com.google.android.apps.youtube.music:id/dismiss_button|@close_video_button|@close_button|@com.google.android.youtube:id/hide_controls_button_top$'
+              '^(@com.google.android.apps.youtube.music:id/dismiss|@com.google.android.apps.youtube.music:id/dismiss_button|@close_video_button|@close_button|@com.google.android.youtube:id/hide_controls_button_top)$'
             )
           )
         )
@@ -47,7 +47,7 @@
           (
             fn:matches(
               @android:id,
-              '^@(com.google.android.apps.youtube.music:id/dismiss|com.google.android.apps.youtube.music:id/dismiss_button|com.google.android.youtube:id/countdown_text|com.google.android.apps.youtube.music:id/player_learn_more_button|count-down|performance_video_container|gmsg-video-player)$')) or
+              '^@(com.google.android.apps.youtube.music:id/dismiss|com.google.android.apps.youtube.music:id/dismiss_button|com.google.android.youtube:id/countdown_text|com.google.android.apps.youtube.music:id/player_learn_more_button|count-down|performance_video_container|gmsg-video-player)$'
             )
           )
         )
