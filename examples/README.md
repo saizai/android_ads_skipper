@@ -3,7 +3,7 @@ Put layout XMLs here, with filename:
 
 Package name is eg `com.google.android.youtube`
 
-Tags (include at least one) are:
+Tags (include all that apply, so at least one) are:
 * `unskippable-ad` an ad is playing and not *currently* skippable
   * `ad-countdown-to-skip` a countdown timer to when the ad will be skippable is currently being displayed
 * `skippable-ad` an ad is playing and *currently* skippable
