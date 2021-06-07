@@ -20,7 +20,7 @@
           (
             fn:matches(
               @android:id,
-              '^(@com.google.android.apps.youtube.music:id/dismiss|@com.google.android.apps.youtube.music:id/dismiss_button|@close_video_button|@close_button|@com.google.android.youtube:id/hide_controls_button_top)$'
+              '^@(com.google.android.apps.youtube.music:id/dismiss|com.google.android.apps.youtube.music:id/dismiss_button|close_video_button|close_button|com.google.android.youtube:id/hide_controls_button_top)$'
             )
           )
         )
@@ -41,7 +41,7 @@
           (
             fn:matches(
               @android:id,
-              '^@.*:(id/skip_ad_text|skip_ad_button_container|skip_ad_button_text|skip_ad_button|banderol_close|app_promo_ad_cta_overlay|ad_progress_text)$'
+              '^@.*:id/(skip_ad_text|skip_ad_button_container|skip_ad_button_text|skip_ad_button|banderol_close|app_promo_ad_cta_overlay|ad_progress_text)$'
             )
           ) or 
           (
