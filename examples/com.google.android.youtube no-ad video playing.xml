@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><android.widget.FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:enabled="true" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+  <android.widget.LinearLayout android:enabled="true" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+    <android.widget.FrameLayout android:enabled="true" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+      <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.youtube:id/action_bar_root" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+        <android.widget.FrameLayout android:enabled="true" android:id="@android:id/content" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/slim_status_bar_player_container" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+            <android.view.View android:enabled="true" android:layout_height="3px" android:layout_width="3px" android:layout_x="0px" android:layout_y="0px"/>
+            <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.youtube:id/navigation_bar_divider_frame" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/global_slim_status_bar_container" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/accessibility_layer_container" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/mdx_fragment_container" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.youtube:id/next_gen_watch_container_layout" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                  <android.view.View android:enabled="true" android:id="@com.google.android.youtube:id/scrim_view" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                  <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.youtube:id/next_gen_watch_layout" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                    <android.widget.FrameLayout android:clickable="true" android:contentDescription="Video player" android:enabled="true" android:focusable="true" android:hint="Double tap to show controls" android:id="@com.google.android.youtube:id/watch_player" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/player_fragment_container" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                        <android.view.ViewGroup android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/player_view" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                          <android.view.ViewGroup android:enabled="true" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                            <android.view.ViewGroup android:enabled="true" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                              <android.view.View android:enabled="true" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                            </android.view.ViewGroup>
+                          </android.view.ViewGroup>
+                        </android.view.ViewGroup>
+                      </android.widget.FrameLayout>
+                      <android.view.ViewGroup android:contentDescription="Expand Mini Player" android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/player_overlays" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                        <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/player_overlays_custom_views_container" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                        <android.widget.FrameLayout android:enabled="true" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                        <android.view.View android:enabled="true" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                        <android.widget.FrameLayout android:enabled="true" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                          <android.widget.FrameLayout android:enabled="true" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                        </android.widget.FrameLayout>
+                        <android.widget.RelativeLayout android:enabled="true" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                        <android.widget.FrameLayout android:enabled="true" android:focusable="true" android:focused="true" android:layout_height="608px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                      </android.view.ViewGroup>
+                    </android.widget.FrameLayout>
+                    <android.view.ViewGroup android:enabled="true" android:layout_height="653px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                      <android.widget.SeekBar android:clickable="true" android:contentDescription="0 minutes 0 seconds of 2 minutes 44 seconds" android:enabled="true" android:focusable="true" android:layout_height="95px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="621px"/>
+                    </android.view.ViewGroup>
+                    <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.youtube:id/engagement_panel_wrapper" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px"/>
+                    <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/video_metadata_layout" android:layout_height="1549px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px">
+                      <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.youtube:id/watch_panel" android:layout_height="1549px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px">
+                        <android.widget.FrameLayout android:enabled="true" android:layout_height="1549px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px">
+                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/video_info_loading_layout" android:layout_height="1549px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px">
+                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/sticky_header_container" android:layout_height="1549px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px">
+                              <android.support.v7.widget.RecyclerView android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/watch_list" android:layout_height="1549px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px" android:scrollable="true">
+                                <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.youtube:id/main_companion_container" android:layout_height="140px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px">
+                                  <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/element_companion_card" android:layout_height="140px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px">
+                                    <android.view.ViewGroup android:enabled="true" android:focusable="true" android:layout_height="140px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px">
+                                      <android.view.ViewGroup android:clickable="true" android:contentDescription="McDonald's Australia" android:enabled="true" android:focusable="true" android:layout_height="137px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="671px">
+                                        <android.widget.ImageView android:enabled="true" android:layout_height="95px" android:layout_width="95px" android:layout_x="32px" android:layout_y="692px"/>
+                                        <android.view.ViewGroup android:enabled="true" android:focusable="true" android:layout_height="95px" android:layout_width="90px" android:layout_x="890px" android:layout_y="692px"/>
+                                        <android.widget.ImageView android:clickable="true" android:contentDescription="Action menu" android:enabled="true" android:focusable="true" android:layout_height="47px" android:layout_width="47px" android:layout_x="1012px" android:layout_y="716px"/>
+                                      </android.view.ViewGroup>
+                                    </android.view.ViewGroup>
+                                  </android.widget.FrameLayout>
+                                </android.widget.LinearLayout>
+                                <android.widget.FrameLayout android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/container" android:layout_height="127px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="811px">
+                                  <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.youtube:id/channel_navigation_container" android:layout_height="127px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="811px">
+                                    <android.widget.LinearLayout android:enabled="true" android:layout_height="66px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="843px">
+                                      <android.widget.TextView android:enabled="true" android:id="@com.google.android.youtube:id/title" android:layout_height="40px" android:layout_width="911px" android:layout_x="32px" android:layout_y="848px" android:text="Fox and cat Standoff"/>
+                                      <android.widget.ImageView android:clickable="true" android:contentDescription="More" android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/expansion_icon" android:layout_height="63px" android:layout_width="63px" android:layout_x="985px" android:layout_y="843px"/>
+                                    </android.widget.LinearLayout>
+                                    <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.youtube:id/badge_and_subtitle_container" android:layout_height="29px" android:layout_width="1016px" android:layout_x="32px" android:layout_y="909px">
+                                      <android.widget.TextView android:enabled="true" android:id="@com.google.android.youtube:id/collapsed_subtitle" android:layout_height="29px" android:layout_width="257px" android:layout_x="32px" android:layout_y="909px" android:text="3.4M views · 1 year ago"/>
+                                    </android.view.ViewGroup>
+                                  </android.widget.LinearLayout>
+                                </android.widget.FrameLayout>
+                                <android.widget.FrameLayout android:enabled="true" android:layout_height="171px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="938px">
+                                  <android.widget.HorizontalScrollView android:enabled="true" android:focusable="true" android:layout_height="171px" android:layout_width="1077px" android:layout_x="1px" android:layout_y="938px">
+                                    <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.youtube:id/button_container" android:layout_height="171px" android:layout_width="1077px" android:layout_x="1px" android:layout_y="938px">
+                                      <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/like_button" android:layout_height="171px" android:layout_width="205px" android:layout_x="27px" android:layout_y="938px">
+                                        <android.widget.ImageView android:contentDescription="like this video along with 64,063 other people" android:enabled="true" android:id="@com.google.android.youtube:id/button_icon" android:layout_height="84px" android:layout_width="63px" android:layout_x="98px" android:layout_y="959px"/>
+                                        <android.widget.TextView android:enabled="true" android:id="@com.google.android.youtube:id/button_text" android:layout_height="45px" android:layout_width="43px" android:layout_x="108px" android:layout_y="1043px" android:text="64K"/>
+                                      </android.widget.LinearLayout>
+                                      <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/dislike_button" android:layout_height="171px" android:layout_width="205px" android:layout_x="232px" android:layout_y="938px">
+                                        <android.widget.ImageView android:contentDescription="dislike this video along with 1,070 other people" android:enabled="true" android:id="@com.google.android.youtube:id/button_icon" android:layout_height="84px" android:layout_width="63px" android:layout_x="303px" android:layout_y="959px"/>
+                                        <android.widget.TextView android:enabled="true" android:id="@com.google.android.youtube:id/button_text" android:layout_height="45px" android:layout_width="29px" android:layout_x="320px" android:layout_y="1043px" android:text="1K"/>
+                                      </android.widget.LinearLayout>
+                                      <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="171px" android:layout_width="205px" android:layout_x="437px" android:layout_y="938px">
+                                        <android.widget.ImageView android:enabled="true" android:id="@com.google.android.youtube:id/button_icon" android:layout_height="84px" android:layout_width="63px" android:layout_x="508px" android:layout_y="959px"/>
+                                        <android.widget.TextView android:enabled="true" android:id="@com.google.android.youtube:id/button_text" android:layout_height="45px" android:layout_width="64px" android:layout_x="507px" android:layout_y="1043px" android:text="Share"/>
+                                      </android.widget.LinearLayout>
+                                      <android.widget.LinearLayout android:clickable="true" android:contentDescription="Download" android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/offline_button" android:layout_height="171px" android:layout_width="205px" android:layout_x="642px" android:layout_y="938px">
+                                        <android.widget.Button android:clickable="true" android:contentDescription="Download" android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/button_icon" android:layout_height="84px" android:layout_width="63px" android:layout_x="713px" android:layout_y="959px">
+                                          <android.widget.ImageView android:enabled="true" android:layout_height="62px" android:layout_width="63px" android:layout_x="713px" android:layout_y="970px"/>
+                                        </android.widget.Button>
+                                        <android.widget.TextView android:enabled="true" android:id="@com.google.android.youtube:id/button_text" android:layout_height="45px" android:layout_width="115px" android:layout_x="687px" android:layout_y="1043px" android:text="Download"/>
+                                      </android.widget.LinearLayout>
+                                      <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="171px" android:layout_width="205px" android:layout_x="847px" android:layout_y="938px" android:longClickable="true">
+                                        <android.widget.ImageView android:contentDescription="Save to playlist" android:enabled="true" android:id="@com.google.android.youtube:id/button_icon" android:layout_height="84px" android:layout_width="63px" android:layout_x="918px" android:layout_y="959px"/>
+                                        <android.widget.TextView android:enabled="true" android:id="@com.google.android.youtube:id/button_text" android:layout_height="45px" android:layout_width="53px" android:layout_x="923px" android:layout_y="1043px" android:text="Save"/>
+                                      </android.widget.LinearLayout>
+                                    </android.view.ViewGroup>
+                                  </android.widget.HorizontalScrollView>
+                                </android.widget.FrameLayout>
+                                <android.widget.FrameLayout android:enabled="true" android:layout_height="148px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1109px">
+                                  <android.widget.GridLayout android:enabled="true" android:id="@com.google.android.youtube:id/channel_container" android:layout_height="148px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1109px">
+                                    <android.view.View android:clickable="true" android:contentDescription="WillC" android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/channel_navigation_container" android:layout_height="148px" android:layout_width="844px" android:layout_x="0px" android:layout_y="1109px"/>
+                                    <android.widget.FrameLayout android:enabled="true" android:layout_height="148px" android:layout_width="84px" android:layout_x="32px" android:layout_y="1109px">
+                                      <android.widget.ImageView android:enabled="true" android:id="@com.google.android.youtube:id/channel_owner_avatar" android:layout_height="84px" android:layout_width="84px" android:layout_x="32px" android:layout_y="1141px"/>
+                                    </android.widget.FrameLayout>
+                                    <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.youtube:id/channel_title_container" android:layout_height="46px" android:layout_width="685px" android:layout_x="148px" android:layout_y="1160px">
+                                      <android.widget.TextView android:enabled="true" android:id="@com.google.android.youtube:id/channel_title" android:layout_height="46px" android:layout_width="81px" android:layout_x="148px" android:layout_y="1160px" android:text="WillC"/>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.youtube:id/channel_subscribers_container" android:layout_height="0px" android:layout_width="0px" android:layout_x="148px" android:layout_y="1206px"/>
+                                    </android.widget.LinearLayout>
+                                    <android.widget.TextView android:clickable="true" android:contentDescription="Subscribe to WillC." android:enabled="true" android:focusable="true" android:id="@com.google.android.youtube:id/subscribe_button" android:layout_height="126px" android:layout_width="215px" android:layout_x="844px" android:layout_y="1120px" android:text="SUBSCRIBE"/>
+                                  </android.widget.GridLayout>
+                                </android.widget.FrameLayout>
+                                <android.view.ViewGroup android:enabled="true" android:focusable="true" android:layout_height="204px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1257px">
+                                  <android.view.ViewGroup android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="204px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1257px">
+                                    <android.widget.ImageView android:enabled="true" android:layout_height="42px" android:layout_width="42px" android:layout_x="996px" android:layout_y="1289px"/>
+                                    <android.widget.ImageView android:enabled="true" android:layout_height="63px" android:layout_width="63px" android:layout_x="32px" android:layout_y="1363px"/>
+                                  </android.view.ViewGroup>
+                                </android.view.ViewGroup>
+                                <android.view.ViewGroup android:enabled="true" android:layout_height="16px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1461px"/>
+                                <android.view.ViewGroup android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="743px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1477px">
+                                  <android.view.ViewGroup android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="521px" android:layout_width="996px" android:layout_x="42px" android:layout_y="1530px">
+                                    <android.widget.ImageView android:enabled="true" android:layout_height="521px" android:layout_width="996px" android:layout_x="42px" android:layout_y="1530px"/>
+                                  </android.view.ViewGroup>
+                                  <android.view.ViewGroup android:clickable="true" android:contentDescription="OPEN" android:enabled="true" android:focusable="true" android:layout_height="95px" android:layout_width="996px" android:layout_x="42px" android:layout_y="2051px">
+                                    <android.widget.ImageView android:enabled="true" android:layout_height="53px" android:layout_width="53px" android:layout_x="953px" android:layout_y="2072px"/>
+                                  </android.view.ViewGroup>
+                                  <android.view.ViewGroup android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="47px" android:layout_width="356px" android:layout_x="42px" android:layout_y="2167px"/>
+                                  <android.widget.ImageView android:clickable="true" android:contentDescription="Action menu" android:enabled="true" android:focusable="true" android:layout_height="47px" android:layout_width="47px" android:layout_x="1012px" android:layout_y="2167px"/>
+                                  <android.view.ViewGroup android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="6px" android:layout_width="933px" android:layout_x="42px" android:layout_y="2214px"/>
+                                  <android.view.ViewGroup android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="0px" android:layout_width="75px" android:layout_x="42px" android:layout_y="2220px"/>
+                                  <android.view.ViewGroup android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="0px" android:layout_width="195px" android:layout_x="117px" android:layout_y="2220px"/>
+                                </android.view.ViewGroup>
+                              </android.support.v7.widget.RecyclerView>
+                            </android.widget.FrameLayout>
+                          </android.widget.FrameLayout>
+                        </android.widget.FrameLayout>
+                      </android.view.ViewGroup>
+                    </android.widget.FrameLayout>
+                  </android.view.ViewGroup>
+                </android.view.ViewGroup>
+                <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.youtube:id/bottom_bar_container" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2220px"/>
+              </android.widget.FrameLayout>
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.widget.FrameLayout>
+      </android.widget.LinearLayout>
+    </android.widget.FrameLayout>
+  </android.widget.LinearLayout>
+</android.widget.FrameLayout>
