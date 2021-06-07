@@ -9,7 +9,7 @@
           (
             fn:matches(
               @android:contentDescription|@android:text[not(../@android:editable='true')],
-              \"^(Werbung überspringen|略過廣告|Skip ads?|Ignorer l'annonce|Close ad panel)$\"
+              "^(Werbung überspringen|略過廣告|Skip ads?|Ignorer l'annonce|Close ad panel)$"
             )
           ) or 
           (
@@ -35,7 +35,7 @@
           (
             fn:matches(
               @android:contentDescription|@android:text[not(../@android:editable='true')],
-              \"^(Werbung überspringen|略過廣告|Skip ads?|Ignorer l'annonce|Close ad panel|Visit advertiser)$\"
+              "^(Werbung überspringen|略過廣告|Skip ads?|Ignorer l'annonce|Close ad panel|Visit advertiser)$"
             )
           ) or 
           (
