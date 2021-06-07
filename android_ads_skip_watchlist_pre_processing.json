@@ -1,0 +1,77 @@
+{
+  "ad_skip_buttons": [
+    {
+      "id": "com.google.android.apps.youtube.music:id/dismiss_button"
+    },
+    {
+      "id": "com.google.android.apps.youtube.music:id/dismiss"
+    },
+    {
+      "id": ".*:id/banderol_close"
+    },
+    {
+      "id": ".*:id/skip_ad_button"
+    },
+    {
+      "id": ".*:id/skip_ad_button_text"
+    },
+    {
+      "id": ".*:id/skip_ad_button_container"
+    },
+    {
+      "id": ".*:id/skip_ad_text"
+    },
+    {
+      "text": "Close ad panel"
+    },
+    {
+      "text": "Ignorer l'annonce"
+    },
+    {
+      "text": "Skip ads?"
+    },
+    {
+      "text": "略過廣告"
+    },
+    {
+      "text": "Werbung überspringen"
+    }
+  ],
+  "ad_playing_indicators": [
+    {
+      "id": "gmsg-video-player"
+    },
+    {
+      "id": "performance_video_container"
+    },
+    {
+      "id": "count-down"
+    },
+    {
+      "id": "com.google.android.apps.youtube.music:id/player_learn_more_button"
+    },
+    {
+      "text": "Visit advertiser"
+    },
+    {
+      "id": "com.google.android.youtube:id/countdown_text"
+    },
+    {
+      "id": ".*:id/ad_progress_text"
+    },
+    {
+      "id": ".*:id/app_promo_ad_cta_overlay"
+    }
+  ],
+  "extra_clickables": [
+    {
+      "id": "com.google.android.youtube:id/hide_controls_button_top"
+    },
+    {
+      "id": "close_button"
+    },
+    {
+      "id": "close_video_button"
+    }
+  ]
+}
