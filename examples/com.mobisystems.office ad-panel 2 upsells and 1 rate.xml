@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><android.widget.FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:enabled="true" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+  <android.widget.LinearLayout android:enabled="true" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+    <android.widget.FrameLayout android:enabled="true" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+      <android.widget.FrameLayout android:enabled="true" android:id="@com.mobisystems.office:id/action_bar_root" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+        <android.widget.FrameLayout android:enabled="true" android:id="@android:id/content" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+          <android.widget.LinearLayout android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_activity_content" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+            <android.view.ViewGroup android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.mobisystems.office:id/parent_layout_container" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+              <android.widget.ScrollView android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.mobisystems.office:id/fab_bottom_popup_container" android:layout_height="1209px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1011px">
+                <android.widget.FrameLayout android:enabled="true" android:layout_height="1209px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1011px">
+                  <android.widget.LinearLayout android:enabled="true" android:layout_height="1209px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1011px">
+                    <android.widget.LinearLayout android:enabled="true" android:layout_height="657px" android:layout_width="996px" android:layout_x="42px" android:layout_y="1011px">
+                      <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_row1" android:layout_height="67px" android:layout_width="306px" android:layout_x="155px" android:layout_y="1037px" android:text="Try 7 days for"/>
+                      <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_row2" android:layout_height="67px" android:layout_width="118px" android:layout_x="155px" android:layout_y="1093px" android:text="FREE"/>
+                      <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_subtitle1" android:layout_height="39px" android:layout_width="446px" android:layout_x="155px" android:layout_y="1176px" android:text="GBP 27.49 per year after trial ends"/>
+                      <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_subtitle2" android:layout_height="39px" android:layout_width="216px" android:layout_x="155px" android:layout_y="1210px" android:text="(Cancel anytime)"/>
+                      <android.view.View android:enabled="true" android:layout_height="42px" android:layout_width="26px" android:layout_x="42px" android:layout_y="1262px"/>
+                      <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_point1" android:layout_height="103px" android:layout_width="325px" android:layout_x="42px" android:layout_y="1304px" android:text="100% ad-free"/>
+                      <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_point2" android:layout_height="103px" android:layout_width="640px" android:layout_x="42px" android:layout_y="1391px" android:text="Open/save 154 document formats"/>
+                      <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_point3" android:layout_height="103px" android:layout_width="550px" android:layout_x="42px" android:layout_y="1478px" android:text="Unlock 25 premium features"/>
+                      <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_point4" android:layout_height="103px" android:layout_width="607px" android:layout_x="42px" android:layout_y="1565px" android:text="License for Android, iOS and PC"/>
+                    </android.widget.LinearLayout>
+                    <android.view.View android:enabled="true" android:layout_height="42px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1668px"/>
+                    <android.view.View android:enabled="true" android:layout_height="5px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1710px"/>
+                    <android.widget.FrameLayout android:enabled="true" android:layout_height="368px" android:layout_width="974px" android:layout_x="53px" android:layout_y="1715px">
+                      <android.widget.LinearLayout android:enabled="true" android:layout_height="368px" android:layout_width="974px" android:layout_x="53px" android:layout_y="1715px">
+                        <android.widget.FrameLayout android:enabled="true" android:layout_height="142px" android:layout_width="974px" android:layout_x="53px" android:layout_y="1715px">
+                          <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.mobisystems.office:id/go_premium_save_group" android:layout_height="55px" android:layout_width="183px" android:layout_x="53px" android:layout_y="1715px">
+                            <android.widget.ImageView android:enabled="true" android:layout_height="55px" android:layout_width="11px" android:layout_x="53px" android:layout_y="1715px"/>
+                            <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_save" android:layout_height="47px" android:layout_width="161px" android:layout_x="64px" android:layout_y="1715px" android:text="SAVE 40%"/>
+                            <android.widget.ImageView android:enabled="true" android:layout_height="47px" android:layout_width="11px" android:layout_x="225px" android:layout_y="1715px"/>
+                          </android.widget.LinearLayout>
+                          <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.mobisystems.office:id/go_premium_button_main" android:layout_height="84px" android:layout_width="952px" android:layout_x="64px" android:layout_y="1738px" android:text="Continue to trial"/>
+                        </android.widget.FrameLayout>
+                        <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.mobisystems.office:id/go_premium_button_secondary" android:layout_height="84px" android:layout_width="952px" android:layout_x="64px" android:layout_y="1857px" android:text="Subscribe monthly - GBP 3.69"/>
+                        <android.widget.TextView android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.mobisystems.office:id/go_premium_button_continue_with_ads" android:layout_height="78px" android:layout_width="952px" android:layout_x="64px" android:layout_y="1973px" android:text="Continue with ads"/>
+                      </android.widget.LinearLayout>
+                    </android.widget.FrameLayout>
+                    <android.view.View android:enabled="true" android:id="@com.mobisystems.office:id/empty_view1" android:layout_height="42px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2083px"/>
+                    <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_description_multiple" android:layout_height="63px" android:layout_width="974px" android:layout_x="53px" android:layout_y="2125px" android:text="Your subscription will renew for the same plan length and the same price, unless you cancel in the Google Play store."/>
+                    <android.view.View android:enabled="true" android:id="@com.mobisystems.office:id/empty_view2" android:layout_height="32px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2188px"/>
+                  </android.widget.LinearLayout>
+                  <android.widget.ImageView android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.mobisystems.office:id/close" android:layout_height="126px" android:layout_width="126px" android:layout_x="16px" android:layout_y="1027px"/>
+                  <android.widget.ImageView android:enabled="true" android:id="@com.mobisystems.office:id/go_premium_artwork" android:layout_height="441px" android:layout_width="378px" android:layout_x="702px" android:layout_y="1011px"/>
+                </android.widget.FrameLayout>
+              </android.widget.ScrollView>
+            </android.view.ViewGroup>
+          </android.widget.LinearLayout>
+        </android.widget.FrameLayout>
+      </android.widget.FrameLayout>
+    </android.widget.FrameLayout>
+  </android.widget.LinearLayout>
+  <android.view.View android:enabled="true" android:id="@android:id/statusBarBackground" android:layout_height="63px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px"/>
+  <android.view.View android:enabled="true" android:layout_height="1px" android:layout_width="1px" android:layout_x="0px" android:layout_y="0px"/>
+</android.widget.FrameLayout>

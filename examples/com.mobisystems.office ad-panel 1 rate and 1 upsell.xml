@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><android.widget.FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:enabled="true" android:layout_height="672px" android:layout_width="827px" android:layout_x="126px" android:layout_y="805px">
+  <android.widget.LinearLayout android:enabled="true" android:layout_height="588px" android:layout_width="743px" android:layout_x="168px" android:layout_y="847px">
+    <android.widget.FrameLayout android:enabled="true" android:id="@android:id/content" android:layout_height="588px" android:layout_width="743px" android:layout_x="168px" android:layout_y="847px">
+      <android.widget.LinearLayout android:enabled="true" android:id="@com.mobisystems.office:id/rateDialog5Container" android:layout_height="588px" android:layout_width="743px" android:layout_x="168px" android:layout_y="847px">
+        <android.widget.ImageView android:enabled="true" android:id="@com.mobisystems.office:id/rateDialog5Image" android:layout_height="278px" android:layout_width="743px" android:layout_x="168px" android:layout_y="847px"/>
+        <android.widget.TextView android:enabled="true" android:id="@com.mobisystems.office:id/rateDialog5TextMessage" android:layout_height="173px" android:layout_width="743px" android:layout_x="168px" android:layout_y="1125px" android:text="Support us with your 5-star rating on the App Store now!"/>
+        <android.widget.RelativeLayout android:enabled="true" android:id="@com.mobisystems.office:id/rateDialog5ButtonsContainer" android:layout_height="137px" android:layout_width="743px" android:layout_x="168px" android:layout_y="1298px">
+          <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.mobisystems.office:id/rateDialog5ButtonCancel" android:layout_height="95px" android:layout_width="231px" android:layout_x="407px" android:layout_y="1319px" android:text="Not now"/>
+          <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.mobisystems.office:id/rateDialog5ButtonRate" android:layout_height="95px" android:layout_width="231px" android:layout_x="659px" android:layout_y="1319px" android:text="Rate 5 stars"/>
+        </android.widget.RelativeLayout>
+      </android.widget.LinearLayout>
+    </android.widget.FrameLayout>
+  </android.widget.LinearLayout>
+</android.widget.FrameLayout>
