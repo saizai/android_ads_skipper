@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?><android.widget.FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:enabled="true" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+  <android.widget.LinearLayout android:enabled="true" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+    <android.widget.FrameLayout android:enabled="true" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+      <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/action_bar_root" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+        <android.widget.FrameLayout android:enabled="true" android:id="@android:id/content" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/accessibility_layer_container" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/main_layout_wrapper" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/waze_bar_container" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px"/>
+              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/watch_while_layout_wrapper" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+                <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/mpp_watch_while_layout" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+                  <android.view.ViewGroup android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/player_page" android:layout_height="2220px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+                    <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/player_page_bottom_layer" android:layout_height="2157px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_playback_controls" android:layout_height="368px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1512px">
+                        <android.widget.RelativeLayout android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="347px" android:layout_width="996px" android:layout_x="42px" android:layout_y="1533px">
+                          <android.widget.SeekBar android:contentDescription="0 minutes 9 seconds of 4 minutes 21 seconds" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/time_bar" android:layout_height="63px" android:layout_width="870px" android:layout_x="105px" android:layout_y="1554px" android:text="0:10"/>
+                          <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/controls_container" android:layout_height="242px" android:layout_width="996px" android:layout_x="42px" android:layout_y="1638px">
+                            <android.view.View android:enabled="true" android:layout_height="0px" android:layout_width="60px" android:layout_x="42px" android:layout_y="1759px"/>
+                            <android.widget.ImageView android:clickable="true" android:contentDescription="Shuffle off" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/queue_shuffle_button" android:layout_height="127px" android:layout_width="127px" android:layout_x="102px" android:layout_y="1695px"/>
+                            <android.view.View android:enabled="true" android:layout_height="0px" android:layout_width="15px" android:layout_x="229px" android:layout_y="1759px"/>
+                            <android.widget.LinearLayout android:enabled="true" android:layout_height="189px" android:layout_width="591px" android:layout_x="244px" android:layout_y="1664px">
+                              <android.widget.ImageView android:clickable="true" android:contentDescription="Previous song" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/player_control_previous_button" android:layout_height="159px" android:layout_width="159px" android:layout_x="244px" android:layout_y="1679px"/>
+                              <android.widget.ImageView android:clickable="true" android:contentDescription="Play video" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/player_control_play_pause_replay_button" android:layout_height="189px" android:layout_width="189px" android:layout_x="445px" android:layout_y="1664px"/>
+                              <android.widget.ImageView android:clickable="true" android:contentDescription="Next song" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/player_control_next_button" android:layout_height="159px" android:layout_width="159px" android:layout_x="676px" android:layout_y="1679px"/>
+                            </android.widget.LinearLayout>
+                            <android.view.View android:enabled="true" android:layout_height="0px" android:layout_width="15px" android:layout_x="835px" android:layout_y="1759px"/>
+                            <android.widget.ImageView android:clickable="true" android:contentDescription="Repeat off" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/queue_loop" android:layout_height="127px" android:layout_width="127px" android:layout_x="850px" android:layout_y="1695px"/>
+                            <android.view.View android:enabled="true" android:layout_height="0px" android:layout_width="61px" android:layout_x="977px" android:layout_y="1759px"/>
+                          </android.widget.LinearLayout>
+                        </android.widget.RelativeLayout>
+                      </android.widget.FrameLayout>
+                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/player_top_section" android:layout_height="179px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                        <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/player_top_controls" android:layout_height="179px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                          <android.widget.ImageView android:clickable="true" android:contentDescription="Minimize" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/player_collapse_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="11px" android:layout_y="89px"/>
+                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/audio_video_switch_pill_container" android:layout_height="126px" android:layout_width="806px" android:layout_x="137px" android:layout_y="89px">
+                            <android.widget.RelativeLayout android:clickable="true" android:contentDescription="Now playing songs. Click to switch to videos" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/audio_video_switch_toggle" android:layout_height="126px" android:layout_width="378px" android:layout_x="351px" android:layout_y="89px">
+                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/song_text" android:layout_height="126px" android:layout_width="189px" android:layout_x="351px" android:layout_y="89px" android:text="Song"/>
+                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/video_text" android:layout_height="126px" android:layout_width="189px" android:layout_x="540px" android:layout_y="89px" android:text="Video"/>
+                            </android.widget.RelativeLayout>
+                          </android.widget.FrameLayout>
+                          <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu" android:layout_height="126px" android:layout_width="126px" android:layout_x="943px" android:layout_y="89px"/>
+                        </android.widget.LinearLayout>
+                      </android.widget.FrameLayout>
+                      <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/current_song_view" android:layout_height="172px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1340px">
+                        <android.widget.LinearLayout android:enabled="true" android:layout_height="126px" android:layout_width="912px" android:layout_x="84px" android:layout_y="1340px">
+                          <android.widget.ImageView android:clickable="true" android:contentDescription="Dislike" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/dislike_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="84px" android:layout_y="1340px"/>
+                          <android.widget.TextView android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="85px" android:layout_width="660px" android:layout_x="210px" android:layout_y="1360px" android:selected="true" android:text="Numbers"/>
+                          <android.widget.ImageView android:clickable="true" android:contentDescription="Undo like" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/like_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="870px" android:layout_y="1340px" android:selected="true"/>
+                        </android.widget.LinearLayout>
+                        <android.widget.TextView android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/artist" android:layout_height="46px" android:layout_width="252px" android:layout_x="414px" android:layout_y="1466px" android:text="The Jolly Rogers"/>
+                      </android.widget.LinearLayout>
+                    </android.widget.FrameLayout>
+                    <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/mpp_player_view_pager_container" android:layout_height="870px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="412px">
+                      <androidx.viewpager.widget.ViewPager android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/player_view_pager" android:layout_height="870px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="412px" android:scrollable="true">
+                        <android.support.v7.widget.RecyclerView android:enabled="true" android:focusable="true" android:layout_height="870px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="412px" android:scrollable="true">
+                          <android.widget.FrameLayout android:enabled="true" android:layout_height="870px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="412px">
+                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/card_view_container" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px">
+                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipeable_thumbnail_aspect_ratio_container" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px">
+                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipeable_thumbnail" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px"/>
+                              </android.widget.FrameLayout>
+                            </android.widget.FrameLayout>
+                          </android.widget.FrameLayout>
+                        </android.support.v7.widget.RecyclerView>
+                      </androidx.viewpager.widget.ViewPager>
+                    </android.widget.FrameLayout>
+                    <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/watch_fragment_container" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px">
+                      <android.widget.FrameLayout android:contentDescription="Video player" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/watch_fragment" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px">
+                        <android.view.ViewGroup android:enabled="true" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px">
+                          <android.widget.FrameLayout android:enabled="true" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px">
+                            <android.widget.RelativeLayout android:enabled="true" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px"/>
+                          </android.widget.FrameLayout>
+                          <android.widget.FrameLayout android:enabled="true" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px">
+                            <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/player_thumbnail" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px"/>
+                            <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/controls_layout" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px">
+                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/player_top_ui_container" android:layout_height="0px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px"/>
+                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/player_bottom_ui_container" android:layout_height="126px" android:layout_width="870px" android:layout_x="105px" android:layout_y="1156px">
+                                <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/time_bar_container" android:layout_height="126px" android:layout_width="744px" android:layout_x="105px" android:layout_y="1156px">
+                                  <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/current_time_container" android:layout_height="126px" android:layout_width="0px" android:layout_x="105px" android:layout_y="1156px"/>
+                                </android.widget.RelativeLayout>
+                              </android.widget.RelativeLayout>
+                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/audio_video_switch_button_container" android:layout_height="0px" android:layout_width="0px" android:layout_x="126px" android:layout_y="1261px"/>
+                            </android.widget.RelativeLayout>
+                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/fast_forward_rewind_triangles" android:layout_height="42px" android:layout_width="109px" android:layout_x="485px" android:layout_y="826px"/>
+                          </android.widget.FrameLayout>
+                        </android.view.ViewGroup>
+                        <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/watch_player" android:layout_height="870px" android:layout_width="870px" android:layout_x="105px" android:layout_y="412px">
+                          <android.view.ViewGroup android:enabled="true" android:layout_height="488px" android:layout_width="870px" android:layout_x="105px" android:layout_y="603px">
+                            <android.view.ViewGroup android:enabled="true" android:layout_height="488px" android:layout_width="870px" android:layout_x="105px" android:layout_y="603px">
+                              <android.view.View android:enabled="true" android:layout_height="488px" android:layout_width="870px" android:layout_x="105px" android:layout_y="603px"/>
+                              <android.view.View android:enabled="true" android:layout_height="488px" android:layout_width="870px" android:layout_x="105px" android:layout_y="603px"/>
+                            </android.view.ViewGroup>
+                          </android.view.ViewGroup>
+                        </android.view.ViewGroup>
+                      </android.widget.FrameLayout>
+                    </android.widget.FrameLayout>
+                    <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/mpp_player_bottom_sheet" android:layout_height="169px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2051px">
+                      <android.widget.ImageView android:contentDescription="Drag to move" android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/bottom_sheet_drag_handle" android:layout_height="43px" android:layout_width="95px" android:layout_x="492px" android:layout_y="2051px"/>
+                      <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/bottom_sheet_tabbed_view" android:layout_height="126px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2094px">
+                        <android.widget.HorizontalScrollView android:enabled="true" android:focusable="true" android:layout_height="126px" android:layout_width="996px" android:layout_x="42px" android:layout_y="2094px">
+                          <android.widget.LinearLayout android:enabled="true" android:layout_height="126px" android:layout_width="996px" android:layout_x="42px" android:layout_y="2094px">
+                            <android.widget.LinearLayout android:contentDescription="Up next" android:enabled="true" android:focusable="true" android:layout_height="126px" android:layout_width="332px" android:layout_x="42px" android:layout_y="2094px" android:selected="true">
+                              <android.widget.TextView android:enabled="true" android:layout_height="39px" android:layout_width="117px" android:layout_x="149px" android:layout_y="2137px" android:selected="true" android:text="UP NEXT"/>
+                            </android.widget.LinearLayout>
+                            <android.widget.LinearLayout android:clickable="true" android:contentDescription="Lyrics" android:focusable="true" android:layout_height="126px" android:layout_width="332px" android:layout_x="374px" android:layout_y="2094px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="39px" android:layout_width="92px" android:layout_x="494px" android:layout_y="2137px" android:text="LYRICS"/>
+                            </android.widget.LinearLayout>
+                            <android.widget.LinearLayout android:clickable="true" android:contentDescription="Related" android:enabled="true" android:focusable="true" android:layout_height="126px" android:layout_width="332px" android:layout_x="706px" android:layout_y="2094px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="39px" android:layout_width="124px" android:layout_x="810px" android:layout_y="2137px" android:text="RELATED"/>
+                            </android.widget.LinearLayout>
+                          </android.widget.LinearLayout>
+                        </android.widget.HorizontalScrollView>
+                        <android.widget.FrameLayout android:enabled="true" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2220px">
+                          <android.view.View android:enabled="true" android:layout_height="0px" android:layout_width="996px" android:layout_x="42px" android:layout_y="2220px"/>
+                        </android.widget.FrameLayout>
+                      </android.widget.LinearLayout>
+                    </android.widget.LinearLayout>
+                  </android.view.ViewGroup>
+                  <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/fragment_container" android:layout_height="2041px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+                    <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/coordinator_layout" android:layout_height="2041px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+                      <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/background_image_container" android:layout_height="585px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px">
+                        <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/background_image" android:layout_height="585px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px"/>
+                        <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/background_overlay_gradient" android:layout_height="585px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px"/>
+                        <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/background_scrim" android:layout_height="585px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px"/>
+                      </android.widget.RelativeLayout>
+                      <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/app_bar" android:layout_height="319px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                        <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/toolbar" android:layout_height="126px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="63px">
+                          <android.widget.ImageView android:enabled="true" android:layout_height="63px" android:layout_width="210px" android:layout_x="42px" android:layout_y="94px"/>
+                          <android.support.v7.widget.LinearLayoutCompat android:enabled="true" android:layout_height="126px" android:layout_width="264px" android:layout_x="816px" android:layout_y="63px">
+                            <android.widget.ImageButton android:clickable="true" android:contentDescription="Search" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/action_search_button" android:layout_height="126px" android:layout_width="127px" android:layout_x="816px" android:layout_y="63px"/>
+                            <android.widget.FrameLayout android:clickable="true" android:contentDescription="Account" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/avatar_menu_button" android:layout_height="126px" android:layout_width="137px" android:layout_x="943px" android:layout_y="63px">
+                              <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/avatar" android:layout_height="84px" android:layout_width="84px" android:layout_x="964px" android:layout_y="84px"/>
+                            </android.widget.FrameLayout>
+                          </android.support.v7.widget.LinearLayoutCompat>
+                        </android.view.ViewGroup>
+                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/header_container" android:layout_height="169px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="210px">
+                          <android.widget.RelativeLayout android:enabled="true" android:layout_height="169px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="210px">
+                            <android.support.v7.widget.RecyclerView android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/chip_cloud" android:layout_height="105px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="242px">
+                              <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="105px" android:layout_width="216px" android:layout_x="42px" android:layout_y="242px">
+                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/chip_cloud_chip_text" android:layout_height="105px" android:layout_width="216px" android:layout_x="42px" android:layout_y="242px" android:text="Workout"/>
+                              </android.widget.LinearLayout>
+                              <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="105px" android:layout_width="174px" android:layout_x="279px" android:layout_y="242px">
+                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/chip_cloud_chip_text" android:layout_height="105px" android:layout_width="174px" android:layout_x="279px" android:layout_y="242px" android:text="Focus"/>
+                              </android.widget.LinearLayout>
+                              <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="105px" android:layout_width="165px" android:layout_x="474px" android:layout_y="242px">
+                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/chip_cloud_chip_text" android:layout_height="105px" android:layout_width="165px" android:layout_x="474px" android:layout_y="242px" android:text="Relax"/>
+                              </android.widget.LinearLayout>
+                              <android.widget.LinearLayout android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="105px" android:layout_width="234px" android:layout_x="660px" android:layout_y="242px">
+                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/chip_cloud_chip_text" android:layout_height="105px" android:layout_width="234px" android:layout_x="660px" android:layout_y="242px" android:text="Commute"/>
+                              </android.widget.LinearLayout>
+                            </android.support.v7.widget.RecyclerView>
+                          </android.widget.RelativeLayout>
+                        </android.widget.RelativeLayout>
+                        <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/toolbar_divider" android:layout_height="3px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="379px"/>
+                      </android.widget.LinearLayout>
+                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/browse_content" android:layout_height="1659px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                        <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/tabbed_view" android:layout_height="1659px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                          <androidx.viewpager.widget.ViewPager android:enabled="true" android:focusable="true" android:layout_height="1659px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                            <android.view.ViewGroup android:enabled="true" android:layout_height="1659px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                              <android.support.v7.widget.RecyclerView android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/section_list_content" android:layout_height="1659px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px" android:scrollable="true">
+                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_item_chrome" android:layout_height="312px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                                  <android.widget.LinearLayout android:enabled="true" android:layout_height="312px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                                    <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/header_container" android:layout_height="-309px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_item_chrome" android:layout_height="-309px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                                        <android.widget.LinearLayout android:contentDescription="Mixed for you" android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_header" android:layout_height="-309px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_header_top_divider" android:layout_height="-444px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px"/>
+                                          <android.widget.LinearLayout android:enabled="true" android:layout_height="-309px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px">
+                                            <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_text_container" android:layout_height="-309px" android:layout_width="1038px" android:layout_x="42px" android:layout_y="382px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_title" android:layout_height="-341px" android:layout_width="354px" android:layout_x="42px" android:layout_y="382px" android:text="Mixed for you"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/end_title_icons" android:layout_height="-341px" android:layout_width="32px" android:layout_x="396px" android:layout_y="382px"/>
+                                            </android.view.ViewGroup>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/end_icons" android:layout_height="-377px" android:layout_width="0px" android:layout_x="1080px" android:layout_y="382px"/>
+                                          </android.widget.LinearLayout>
+                                        </android.widget.LinearLayout>
+                                      </android.widget.FrameLayout>
+                                    </android.widget.FrameLayout>
+                                    <android.support.v7.widget.RecyclerView android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/carousel_content" android:layout_height="312px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="382px" android:scrollable="true">
+                                      <android.widget.RelativeLayout android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/two_row_item" android:layout_height="291px" android:layout_width="445px" android:layout_x="42px" android:layout_y="382px" android:longClickable="true">
+                                        <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_outer_container" android:layout_height="157px" android:layout_width="445px" android:layout_x="42px" android:layout_y="382px">
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_corner_overlay_container" android:layout_height="157px" android:layout_width="445px" android:layout_x="42px" android:layout_y="382px"/>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_container" android:layout_height="157px" android:layout_width="445px" android:layout_x="42px" android:layout_y="382px">
+                                            <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="157px" android:layout_width="445px" android:layout_x="42px" android:layout_y="382px"/>
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="157px" android:layout_width="445px" android:layout_x="42px" android:layout_y="382px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="157px" android:layout_width="445px" android:layout_x="42px" android:layout_y="382px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="-66px" android:layout_width="0px" android:layout_x="264px" android:layout_y="382px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.FrameLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title_layout" android:layout_height="51px" android:layout_width="445px" android:layout_x="42px" android:layout_y="539px">
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="51px" android:layout_width="445px" android:layout_x="42px" android:layout_y="539px" android:text="Your Likes"/>
+                                        </android.widget.RelativeLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle_layout" android:layout_height="39px" android:layout_width="445px" android:layout_x="42px" android:layout_y="595px">
+                                          <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle_badges_container" android:layout_height="0px" android:layout_width="0px" android:layout_x="42px" android:layout_y="595px"/>
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="445px" android:layout_x="42px" android:layout_y="595px" android:text="Auto playlist"/>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.RelativeLayout>
+                                      <android.widget.RelativeLayout android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/two_row_item" android:layout_height="291px" android:layout_width="445px" android:layout_x="529px" android:layout_y="382px" android:longClickable="true">
+                                        <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_outer_container" android:layout_height="157px" android:layout_width="445px" android:layout_x="529px" android:layout_y="382px">
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_corner_overlay_container" android:layout_height="157px" android:layout_width="445px" android:layout_x="529px" android:layout_y="382px"/>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_container" android:layout_height="157px" android:layout_width="445px" android:layout_x="529px" android:layout_y="382px">
+                                            <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="157px" android:layout_width="445px" android:layout_x="529px" android:layout_y="382px"/>
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="157px" android:layout_width="445px" android:layout_x="529px" android:layout_y="382px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="157px" android:layout_width="445px" android:layout_x="529px" android:layout_y="382px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="-66px" android:layout_width="0px" android:layout_x="751px" android:layout_y="382px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.FrameLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title_layout" android:layout_height="51px" android:layout_width="445px" android:layout_x="529px" android:layout_y="539px">
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="51px" android:layout_width="445px" android:layout_x="529px" android:layout_y="539px" android:text="My Supermix"/>
+                                        </android.widget.RelativeLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle_layout" android:layout_height="78px" android:layout_width="445px" android:layout_x="529px" android:layout_y="595px">
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="78px" android:layout_width="445px" android:layout_x="529px" android:layout_y="595px" android:text="Home Free, Derina Harvey Band, The High Kings, The Longest Johns..."/>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.RelativeLayout>
+                                      <android.widget.RelativeLayout android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/two_row_item" android:layout_height="291px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="382px" android:longClickable="true">
+                                        <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_outer_container" android:layout_height="157px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="382px">
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_corner_overlay_container" android:layout_height="157px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="382px"/>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_container" android:layout_height="157px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="382px">
+                                            <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="157px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="382px"/>
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="157px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="382px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="157px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="382px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="-66px" android:layout_width="-158px" android:layout_x="1238px" android:layout_y="382px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.FrameLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title_layout" android:layout_height="51px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="539px">
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="51px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="539px" android:text="My Mix 1"/>
+                                        </android.widget.RelativeLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle_layout" android:layout_height="78px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="595px">
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="78px" android:layout_width="64px" android:layout_x="1016px" android:layout_y="595px" android:text="Home Free, Geoff Castellucci, Peter Hollens"/>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.RelativeLayout>
+                                    </android.support.v7.widget.RecyclerView>
+                                  </android.widget.LinearLayout>
+                                </android.widget.FrameLayout>
+                                <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/shelf_divider" android:layout_height="63px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="694px">
+                                  <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/divider" android:layout_height="63px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="694px"/>
+                                  <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/divider_after" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="757px"/>
+                                </android.widget.LinearLayout>
+                                <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/shelf_divider" android:layout_height="1px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="757px">
+                                  <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/divider" android:layout_height="1px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="757px"/>
+                                </android.widget.LinearLayout>
+                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_item_chrome" android:layout_height="883px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="758px">
+                                  <android.widget.LinearLayout android:enabled="true" android:layout_height="883px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="758px">
+                                    <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/header_container" android:layout_height="180px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="758px">
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_item_chrome" android:layout_height="180px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="758px">
+                                        <android.widget.LinearLayout android:contentDescription="START RADIO FROM A SONG Quick picks" android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_header" android:layout_height="180px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="758px">
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_header_top_divider" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="758px"/>
+                                          <android.widget.LinearLayout android:enabled="true" android:layout_height="180px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="758px">
+                                            <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_text_container" android:layout_height="180px" android:layout_width="1038px" android:layout_x="42px" android:layout_y="758px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_strapline" android:layout_height="45px" android:layout_width="381px" android:layout_x="42px" android:layout_y="790px" android:text="START RADIO FROM A SONG"/>
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_title" android:layout_height="71px" android:layout_width="295px" android:layout_x="42px" android:layout_y="835px" android:text="Quick picks"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/end_title_icons" android:layout_height="18px" android:layout_width="32px" android:layout_x="337px" android:layout_y="888px"/>
+                                            </android.view.ViewGroup>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/end_icons" android:layout_height="0px" android:layout_width="0px" android:layout_x="1080px" android:layout_y="848px"/>
+                                          </android.widget.LinearLayout>
+                                        </android.widget.LinearLayout>
+                                      </android.widget.FrameLayout>
+                                    </android.widget.FrameLayout>
+                                    <android.support.v7.widget.RecyclerView android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/carousel_content_snappy" android:layout_height="703px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="938px" android:scrollable="true">
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="948px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="948px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="948px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="948px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="969px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="969px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="-121px" android:layout_x="0px" android:layout_y="993px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="-121px" android:layout_x="0px" android:layout_y="993px" android:text="Aaron Burr, Sir"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="-509px" android:layout_x="0px" android:layout_y="1032px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="-509px" android:layout_x="0px" android:layout_y="1032px" android:text="Lin-Manuel Miranda"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="10px" android:layout_x="0px" android:layout_y="979px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="10px" android:layout_x="0px" android:layout_y="979px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="969px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="969px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="969px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="-875px" android:layout_x="0px" android:layout_y="1032px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="948px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="948px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="948px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="126px" android:layout_x="43px" android:layout_y="948px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="969px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="969px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="649px" android:layout_x="211px" android:layout_y="993px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="649px" android:layout_x="211px" android:layout_y="993px" android:text="Transatlanticism"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="258px" android:layout_x="211px" android:layout_y="1032px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="258px" android:layout_x="211px" android:layout_y="1032px" android:text="Death Cab for Cutie"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="131px" android:layout_x="860px" android:layout_y="979px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="131px" android:layout_x="860px" android:layout_y="979px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="969px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="969px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="969px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="0px" android:layout_x="106px" android:layout_y="1032px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="948px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="948px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="948px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="948px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="969px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="969px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="993px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="993px" android:text="The Last Saskatchewan Pirate"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1032px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1032px" android:text="Derina Harvey Band"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="-761px" android:layout_x="1841px" android:layout_y="979px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="-761px" android:layout_x="1841px" android:layout_y="979px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="969px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="969px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="969px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="-7px" android:layout_x="1087px" android:layout_y="1032px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1116px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1116px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1116px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1116px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1137px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1137px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="-121px" android:layout_x="0px" android:layout_y="1161px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="-121px" android:layout_x="0px" android:layout_y="1161px" android:text="On the Railroad"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="-525px" android:layout_x="0px" android:layout_y="1200px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="-525px" android:layout_x="0px" android:layout_y="1200px" android:text="The Longest Johns"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1147px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1147px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1137px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1137px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1137px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="-875px" android:layout_x="0px" android:layout_y="1200px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="1116px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="1116px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="1116px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1116px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1137px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1137px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="649px" android:layout_x="211px" android:layout_y="1161px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="649px" android:layout_x="211px" android:layout_y="1161px" android:text="Leave Her Johnny"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="539px" android:layout_x="211px" android:layout_y="1200px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="539px" android:layout_x="211px" android:layout_y="1200px" android:text="Michiel Schrey, Nils Brown &amp; Sean Dagher"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="131px" android:layout_x="860px" android:layout_y="1147px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="131px" android:layout_x="860px" android:layout_y="1147px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1137px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1137px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1137px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="0px" android:layout_x="106px" android:layout_y="1200px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="1116px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="1116px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="1116px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1116px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1137px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1137px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1161px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1161px" android:text="Sixteen Tons"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1200px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1200px" android:text="Geoff Castellucci"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="-761px" android:layout_x="1841px" android:layout_y="1147px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="-761px" android:layout_x="1841px" android:layout_y="1147px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1137px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1137px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1137px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="-7px" android:layout_x="1087px" android:layout_y="1200px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1284px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1284px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1284px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1284px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1305px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1305px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="-121px" android:layout_x="0px" android:layout_y="1329px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="-121px" android:layout_x="0px" android:layout_y="1329px" android:text="Old Maui"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="-529px" android:layout_x="0px" android:layout_y="1368px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="-529px" android:layout_x="0px" android:layout_y="1368px" android:text="The Dreadnoughts"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1315px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1315px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1305px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1305px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1305px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="-875px" android:layout_x="0px" android:layout_y="1368px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="1284px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="1284px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="1284px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1284px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1305px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1305px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="649px" android:layout_x="211px" android:layout_y="1329px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="649px" android:layout_x="211px" android:layout_y="1329px" android:text="Numbers"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="211px" android:layout_x="211px" android:layout_y="1368px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="211px" android:layout_x="211px" android:layout_y="1368px" android:text="The Jolly Rogers"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="131px" android:layout_x="860px" android:layout_y="1315px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="131px" android:layout_x="860px" android:layout_y="1315px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1305px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1305px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1305px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="60px" android:layout_width="60px" android:layout_x="76px" android:layout_y="1338px">
+                                                  <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/equalizer_indicator" android:layout_height="60px" android:layout_width="60px" android:layout_x="76px" android:layout_y="1338px"/>
+                                                </android.widget.FrameLayout>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="1284px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="1284px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="1284px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1284px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1305px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1305px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1329px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1329px" android:text="Wellerman (Sea Shanty)"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1368px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1368px" android:text="Nathan Evans"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="-761px" android:layout_x="1841px" android:layout_y="1315px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="-761px" android:layout_x="1841px" android:layout_y="1315px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1305px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1305px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1305px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="-7px" android:layout_x="1087px" android:layout_y="1368px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1452px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1452px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1452px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1452px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1473px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1473px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="-121px" android:layout_x="0px" android:layout_y="1497px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="-121px" android:layout_x="0px" android:layout_y="1497px" android:text="The Rocky Road To Dublin"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="-574px" android:layout_x="0px" android:layout_y="1536px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="-574px" android:layout_x="0px" android:layout_y="1536px" android:text="The High Kings"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1483px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="10px" android:layout_x="0px" android:layout_y="1483px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1473px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1473px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="-812px" android:layout_x="0px" android:layout_y="1473px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="-875px" android:layout_x="0px" android:layout_y="1536px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="1452px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="1452px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="959px" android:layout_x="32px" android:layout_y="1452px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1452px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1473px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1473px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="649px" android:layout_x="211px" android:layout_y="1497px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="649px" android:layout_x="211px" android:layout_y="1497px" android:text="Sea Shanty Medley"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="140px" android:layout_x="211px" android:layout_y="1536px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="140px" android:layout_x="211px" android:layout_y="1536px" android:text="Home Free"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="131px" android:layout_x="860px" android:layout_y="1483px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="131px" android:layout_x="860px" android:layout_y="1483px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1473px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1473px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="126px" android:layout_x="43px" android:layout_y="1473px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="0px" android:layout_x="106px" android:layout_y="1536px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                      <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/swipe_layout" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="1452px">
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content_parent" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="1452px" android:longClickable="true">
+                                          <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/two_column_item_content" android:layout_height="168px" android:layout_width="67px" android:layout_x="1013px" android:layout_y="1452px">
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_index_container" android:layout_height="168px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1452px">
+                                              <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_parent" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1473px">
+                                                <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1473px"/>
+                                              </android.widget.FrameLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/details_container" android:layout_height="78px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1497px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1497px" android:text="Wellerman (Spanish Version)"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1536px">
+                                                <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="39px" android:layout_width="-112px" android:layout_x="1192px" android:layout_y="1536px" android:text="Hermoti"/>
+                                              </android.widget.LinearLayout>
+                                            </android.widget.LinearLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_container" android:layout_height="105px" android:layout_width="-761px" android:layout_x="1841px" android:layout_y="1483px">
+                                              <android.widget.ImageView android:clickable="true" android:contentDescription="Menu" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/contextual_menu_anchor" android:layout_height="105px" android:layout_width="-761px" android:layout_x="1841px" android:layout_y="1483px"/>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.RelativeLayout>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_overlay_parent" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1473px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1473px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="126px" android:layout_width="56px" android:layout_x="1024px" android:layout_y="1473px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="0px" android:layout_width="-7px" android:layout_x="1087px" android:layout_y="1536px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.FrameLayout>
+                                    </android.support.v7.widget.RecyclerView>
+                                  </android.widget.LinearLayout>
+                                </android.widget.FrameLayout>
+                                <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/shelf_divider" android:layout_height="63px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1641px">
+                                  <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/divider" android:layout_height="63px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1641px"/>
+                                  <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/divider_after" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1704px"/>
+                                </android.widget.LinearLayout>
+                                <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/shelf_divider" android:layout_height="1px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1704px">
+                                  <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/divider" android:layout_height="1px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1704px"/>
+                                </android.widget.LinearLayout>
+                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_item_chrome" android:layout_height="336px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1705px">
+                                  <android.widget.LinearLayout android:enabled="true" android:layout_height="336px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1705px">
+                                    <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/header_container" android:layout_height="180px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1705px">
+                                      <android.widget.FrameLayout android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/music_item_chrome" android:layout_height="180px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1705px">
+                                        <android.widget.LinearLayout android:contentDescription="MORE FROM The High Kings" android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_header" android:layout_height="180px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1705px">
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_header_top_divider" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1705px"/>
+                                          <android.widget.LinearLayout android:enabled="true" android:layout_height="180px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1705px">
+                                            <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_container" android:layout_height="105px" android:layout_width="105px" android:layout_x="42px" android:layout_y="1742px">
+                                              <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="105px" android:layout_width="105px" android:layout_x="42px" android:layout_y="1742px"/>
+                                            </android.widget.FrameLayout>
+                                            <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_text_container" android:layout_height="180px" android:layout_width="891px" android:layout_x="189px" android:layout_y="1705px">
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_strapline" android:layout_height="45px" android:layout_width="169px" android:layout_x="189px" android:layout_y="1737px" android:text="MORE FROM"/>
+                                              <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/carousel_title" android:layout_height="71px" android:layout_width="396px" android:layout_x="189px" android:layout_y="1782px" android:text="The High Kings"/>
+                                              <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/end_title_icons" android:layout_height="18px" android:layout_width="32px" android:layout_x="585px" android:layout_y="1835px"/>
+                                            </android.view.ViewGroup>
+                                            <android.widget.LinearLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/end_icons" android:layout_height="0px" android:layout_width="0px" android:layout_x="1080px" android:layout_y="1795px"/>
+                                          </android.widget.LinearLayout>
+                                        </android.widget.LinearLayout>
+                                      </android.widget.FrameLayout>
+                                    </android.widget.FrameLayout>
+                                    <android.support.v7.widget.RecyclerView android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/carousel_content" android:layout_height="156px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1885px" android:scrollable="true">
+                                      <android.widget.RelativeLayout android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/two_row_item" android:layout_height="135px" android:layout_width="445px" android:layout_x="42px" android:layout_y="1906px" android:longClickable="true">
+                                        <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_outer_container" android:layout_height="135px" android:layout_width="445px" android:layout_x="42px" android:layout_y="1906px">
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_corner_overlay_container" android:layout_height="135px" android:layout_width="445px" android:layout_x="42px" android:layout_y="1906px"/>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_container" android:layout_height="135px" android:layout_width="445px" android:layout_x="42px" android:layout_y="1906px">
+                                            <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="135px" android:layout_width="445px" android:layout_x="42px" android:layout_y="1906px"/>
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="135px" android:layout_width="445px" android:layout_x="42px" android:layout_y="1906px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="135px" android:layout_width="445px" android:layout_x="42px" android:layout_y="1906px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="-87px" android:layout_width="0px" android:layout_x="264px" android:layout_y="2128px"/>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.FrameLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title_layout" android:layout_height="-310px" android:layout_width="445px" android:layout_x="42px" android:layout_y="2351px">
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="-310px" android:layout_width="445px" android:layout_x="42px" android:layout_y="2351px" android:text="Irish Pub Song"/>
+                                        </android.widget.RelativeLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle_layout" android:layout_height="-366px" android:layout_width="445px" android:layout_x="42px" android:layout_y="2407px">
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="-366px" android:layout_width="445px" android:layout_x="42px" android:layout_y="2407px" android:text="Single • The High Kings"/>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.RelativeLayout>
+                                      <android.widget.RelativeLayout android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/two_row_item" android:layout_height="135px" android:layout_width="551px" android:layout_x="529px" android:layout_y="1906px" android:longClickable="true">
+                                        <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_outer_container" android:layout_height="135px" android:layout_width="551px" android:layout_x="529px" android:layout_y="1906px">
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_corner_overlay_container" android:layout_height="135px" android:layout_width="551px" android:layout_x="529px" android:layout_y="1906px"/>
+                                          <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail_container" android:layout_height="135px" android:layout_width="551px" android:layout_x="529px" android:layout_y="1906px">
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="135px" android:layout_width="551px" android:layout_x="529px" android:layout_y="1906px">
+                                              <android.widget.FrameLayout android:enabled="true" android:layout_height="135px" android:layout_width="551px" android:layout_x="529px" android:layout_y="1906px"/>
+                                              <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/thumbnail" android:layout_height="135px" android:layout_width="551px" android:layout_x="529px" android:layout_y="1906px"/>
+                                            </android.widget.FrameLayout>
+                                            <android.widget.FrameLayout android:enabled="true" android:layout_height="135px" android:layout_width="551px" android:layout_x="529px" android:layout_y="1906px">
+                                              <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/overlay" android:layout_height="135px" android:layout_width="551px" android:layout_x="529px" android:layout_y="1906px">
+                                                <android.widget.FrameLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/music_play_button" android:layout_height="-24px" android:layout_width="126px" android:layout_x="861px" android:layout_y="2065px">
+                                                  <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/icon" android:layout_height="-24px" android:layout_width="126px" android:layout_x="861px" android:layout_y="2065px"/>
+                                                </android.widget.FrameLayout>
+                                              </android.widget.RelativeLayout>
+                                            </android.widget.FrameLayout>
+                                          </android.widget.FrameLayout>
+                                        </android.widget.FrameLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title_layout" android:layout_height="-310px" android:layout_width="551px" android:layout_x="529px" android:layout_y="2351px">
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/title" android:layout_height="-310px" android:layout_width="551px" android:layout_x="529px" android:layout_y="2351px" android:text="The Rising Of The Moon (Live)"/>
+                                        </android.widget.RelativeLayout>
+                                        <android.widget.RelativeLayout android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle_layout" android:layout_height="-366px" android:layout_width="551px" android:layout_x="529px" android:layout_y="2407px">
+                                          <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/subtitle" android:layout_height="-366px" android:layout_width="551px" android:layout_x="529px" android:layout_y="2407px" android:text="The High Kings • 1.2M views"/>
+                                        </android.widget.RelativeLayout>
+                                      </android.widget.RelativeLayout>
+                                    </android.support.v7.widget.RecyclerView>
+                                  </android.widget.LinearLayout>
+                                </android.widget.FrameLayout>
+                              </android.support.v7.widget.RecyclerView>
+                            </android.view.ViewGroup>
+                          </androidx.viewpager.widget.ViewPager>
+                        </android.widget.LinearLayout>
+                      </android.widget.FrameLayout>
+                    </android.view.ViewGroup>
+                  </android.widget.FrameLayout>
+                </android.view.ViewGroup>
+                <android.view.ViewGroup android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/floating_layout" android:layout_height="369px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1851px">
+                  <android.widget.LinearLayout android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/mealbar_layout_root" android:layout_height="369px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="1851px">
+                    <android.widget.LinearLayout android:enabled="true" android:layout_height="105px" android:layout_width="996px" android:layout_x="42px" android:layout_y="1893px">
+                      <android.widget.ImageView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/icon" android:layout_height="105px" android:layout_width="105px" android:layout_x="42px" android:layout_y="1893px"/>
+                      <android.widget.LinearLayout android:enabled="true" android:layout_height="86px" android:layout_width="849px" android:layout_x="189px" android:layout_y="1902px">
+                        <android.widget.TextView android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/text" android:layout_height="86px" android:layout_width="849px" android:layout_x="189px" android:layout_y="1902px" android:text="Let YouTube Music Premium help you discover the latest in songs and artists – all ad-free"/>
+                      </android.widget.LinearLayout>
+                    </android.widget.LinearLayout>
+                    <android.widget.LinearLayout android:enabled="true" android:layout_height="137px" android:layout_width="578px" android:layout_x="470px" android:layout_y="2051px">
+                      <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/secondary_action" android:layout_height="137px" android:layout_width="269px" android:layout_x="470px" android:layout_y="2051px" android:text="NO THANKS"/>
+                      <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:id="@com.google.android.apps.youtube.music:id/primary_action" android:layout_height="137px" android:layout_width="309px" android:layout_x="739px" android:layout_y="2051px" android:text="1 MONTH FREE"/>
+                    </android.widget.LinearLayout>
+                  </android.widget.LinearLayout>
+                </android.view.ViewGroup>
+              </android.widget.FrameLayout>
+            </android.widget.LinearLayout>
+            <android.view.View android:enabled="true" android:id="@com.google.android.apps.youtube.music:id/foreground_detection_fragment" android:layout_height="1px" android:layout_width="1px" android:layout_x="0px" android:layout_y="0px"/>
+          </android.widget.FrameLayout>
+        </android.widget.FrameLayout>
+      </android.widget.LinearLayout>
+    </android.widget.FrameLayout>
+  </android.widget.LinearLayout>
+  <android.view.View android:enabled="true" android:id="@android:id/statusBarBackground" android:layout_height="63px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="0px"/>
+</android.widget.FrameLayout>
