@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?><android.widget.FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:enabled="true" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+  <android.widget.LinearLayout android:enabled="true" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+    <android.widget.FrameLayout android:enabled="true" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+      <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/action_bar_root" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+        <android.widget.FrameLayout android:enabled="true" android:id="@android:id/content" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+          <android.view.ViewGroup android:enabled="true" android:id="@com.android.chrome:id/coordinator" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+            <android.widget.FrameLayout android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/compositor_view_holder" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+              <android.widget.FrameLayout android:enabled="true" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+                <android.view.View android:enabled="true" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px"/>
+              </android.widget.FrameLayout>
+              <android.widget.FrameLayout android:enabled="true" android:layout_height="1528px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+                <android.webkit.WebView android:enabled="true" android:focusable="true" android:focused="true" android:layout_height="1258px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px" android:scrollable="true" android:text="Biden to Send Millions of Pfizer Vaccine Doses to 100 Countries - The New York Times">
+                  <android.view.View android:enabled="true" android:id="@app" android:layout_height="1258px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                    <android.view.View android:enabled="true" android:id="@google-one-tap-container" android:layout_height="7px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                      <android.view.View android:enabled="true" android:id="@google-one-tap-prompt" android:layout_height="7px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px"/>
+                    </android.view.View>
+                    <android.view.View android:enabled="true" android:layout_height="-10027px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                      <android.view.View android:enabled="true" android:layout_height="-10027px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                        <android.view.View android:enabled="true" android:layout_height="-10045px" android:layout_width="95px" android:layout_x="23px" android:layout_y="839px">
+                          <android.view.View android:enabled="true" android:layout_height="-10045px" android:layout_width="95px" android:layout_x="23px" android:layout_y="839px">
+                            <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="-10045px" android:layout_width="95px" android:layout_x="23px" android:layout_y="839px" android:text="Sections Navigation &amp; Search"/>
+                          </android.view.View>
+                          <android.view.View android:clickable="true" android:contentDescription="SKIP TO CONTENT" android:enabled="true" android:focusable="true" android:layout_height="-10080px" android:layout_width="71px" android:layout_x="136px" android:layout_y="839px">
+                            <android.widget.TextView android:enabled="true" android:layout_height="-10077px" android:layout_width="249px" android:layout_x="168px" android:layout_y="839px" android:text="SKIP TO CONTENT"/>
+                          </android.view.View>
+                          <android.view.View android:clickable="true" android:contentDescription="SKIP TO SITE INDEX" android:enabled="true" android:focusable="true" android:layout_height="-10080px" android:layout_width="71px" android:layout_x="136px" android:layout_y="839px">
+                            <android.widget.TextView android:enabled="true" android:layout_height="-10077px" android:layout_width="273px" android:layout_x="168px" android:layout_y="839px" android:text="SKIP TO SITE INDEX"/>
+                          </android.view.View>
+                        </android.view.View>
+                        <android.view.View android:clickable="true" android:contentDescription="New York Times Logo. Click to visit the homepage" android:enabled="true" android:focusable="true" android:layout_height="-10048px" android:layout_width="499px" android:layout_x="291px" android:layout_y="839px">
+                          <android.widget.Image android:enabled="true" android:layout_height="-10051px" android:layout_width="499px" android:layout_x="291px" android:layout_y="839px"/>
+                        </android.view.View>
+                        <android.view.View android:enabled="true" android:layout_height="-10043px" android:layout_width="91px" android:layout_x="966px" android:layout_y="839px">
+                          <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="-10043px" android:layout_width="91px" android:layout_x="966px" android:layout_y="839px" android:text="Account"/>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.view.View>
+                    <android.view.View android:enabled="true" android:layout_height="1258px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                      <android.view.View android:enabled="true" android:id="@site-content" android:layout_height="1258px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                        <android.view.View android:enabled="true" android:id="@story" android:layout_height="1258px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                          <android.view.View android:enabled="true" android:layout_height="-1097px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                            <android.view.View android:enabled="true" android:layout_height="-1097px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                              <android.view.View android:enabled="true" android:layout_height="-1105px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px" android:scrollable="true" android:text="Biden in Europe">
+                                <android.view.View android:enabled="true" android:id="@storyline-menu-title" android:layout_height="-1131px" android:layout_width="221px" android:layout_x="49px" android:layout_y="839px" android:text="Biden in Europe"/>
+                                <android.widget.ListView android:enabled="true" android:layout_height="-1105px" android:layout_width="1058px" android:layout_x="267px" android:layout_y="839px">
+                                  <android.view.MenuItem android:clickable="true" android:enabled="true" android:layout_height="-1105px" android:layout_width="124px" android:layout_x="267px" android:layout_y="839px" android:text="Updates">
+                                    <android.view.View android:clickable="true" android:contentDescription="Updates" android:enabled="true" android:focusable="true" android:layout_height="-1149px" android:layout_width="124px" android:layout_x="267px" android:layout_y="839px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="-1149px" android:layout_width="124px" android:layout_x="267px" android:layout_y="839px" android:text="Updates"/>
+                                    </android.view.View>
+                                  </android.view.MenuItem>
+                                  <android.view.MenuItem android:clickable="true" android:enabled="true" android:layout_height="-1105px" android:layout_width="168px" android:layout_x="443px" android:layout_y="839px" android:text="Biden’s Trip">
+                                    <android.view.View android:clickable="true" android:contentDescription="Biden’s Trip" android:enabled="true" android:focusable="true" android:layout_height="-1149px" android:layout_width="168px" android:layout_x="443px" android:layout_y="839px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="-1149px" android:layout_width="168px" android:layout_x="443px" android:layout_y="839px" android:text="Biden’s Trip"/>
+                                    </android.view.View>
+                                  </android.view.MenuItem>
+                                  <android.view.MenuItem android:clickable="true" android:enabled="true" android:layout_height="-1105px" android:layout_width="265px" android:layout_x="666px" android:layout_y="839px" android:text="Allies Wary of U.S.">
+                                    <android.view.View android:clickable="true" android:contentDescription="Allies Wary of U.S." android:enabled="true" android:focusable="true" android:layout_height="-1149px" android:layout_width="265px" android:layout_x="666px" android:layout_y="839px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="-1149px" android:layout_width="265px" android:layout_x="666px" android:layout_y="839px" android:text="Allies Wary of U.S."/>
+                                    </android.view.View>
+                                  </android.view.MenuItem>
+                                  <android.view.MenuItem android:clickable="true" android:enabled="true" android:layout_height="-1105px" android:layout_width="286px" android:layout_x="987px" android:layout_y="839px" android:text="Global Vaccine Plan">
+                                    <android.view.View android:clickable="true" android:contentDescription="Global Vaccine Plan" android:enabled="true" android:focusable="true" android:layout_height="-1141px" android:layout_width="286px" android:layout_x="987px" android:layout_y="839px">
+                                      <android.widget.TextView android:enabled="true" android:layout_height="-1149px" android:layout_width="286px" android:layout_x="987px" android:layout_y="839px" android:text="Global Vaccine Plan"/>
+                                    </android.view.View>
+                                  </android.view.MenuItem>
+                                </android.widget.ListView>
+                              </android.view.View>
+                            </android.view.View>
+                          </android.view.View>
+                          <android.view.View android:enabled="true" android:layout_height="-7266px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                            <android.view.View android:enabled="true" android:id="@link-2ef66aa6" android:layout_height="-9534px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="Biden to Send 500 Million Doses of Pfizer Vaccine to 100 Countries Over a Year"/>
+                            <android.view.View android:enabled="true" android:id="@article-summary" android:layout_height="-9232px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="The White House’s move is part of a nascent campaign to inoculate the world, and came as President Biden faced intense pressure to do more."/>
+                            <android.view.View android:enabled="true" android:layout_height="-9108px" android:layout_width="497px" android:layout_x="49px" android:layout_y="839px" android:text="Social Media Share buttons, Save button, and Comments Panel with current comment count">
+                              <android.widget.ListView android:enabled="true" android:layout_height="-9108px" android:layout_width="497px" android:layout_x="49px" android:layout_y="839px">
+                                <android.view.View android:enabled="true" android:layout_height="-9108px" android:layout_width="77px" android:layout_x="49px" android:layout_y="839px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Share on Facebook" android:enabled="true" android:focusable="true" android:layout_height="-9108px" android:layout_width="77px" android:layout_x="49px" android:layout_y="839px">
+                                    <android.widget.Image android:enabled="true" android:layout_height="-9108px" android:layout_width="77px" android:layout_x="49px" android:layout_y="839px"/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="-9108px" android:layout_width="76px" android:layout_x="162px" android:layout_y="839px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Share on WhatsApp" android:enabled="true" android:focusable="true" android:layout_height="-9108px" android:layout_width="76px" android:layout_x="162px" android:layout_y="839px"/>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="-9108px" android:layout_width="76px" android:layout_x="275px" android:layout_y="839px">
+                                  <android.view.View android:clickable="true" android:contentDescription="Share on Twitter" android:enabled="true" android:focusable="true" android:layout_height="-9108px" android:layout_width="76px" android:layout_x="275px" android:layout_y="839px">
+                                    <android.widget.Image android:enabled="true" android:layout_height="-9108px" android:layout_width="76px" android:layout_x="275px" android:layout_y="839px"/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="-9108px" android:layout_width="74px" android:layout_x="388px" android:layout_y="839px">
+                                  <android.view.View android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="-9108px" android:layout_width="74px" android:layout_x="388px" android:layout_y="839px" android:text="More sharing options ..."/>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="-9100px" android:layout_width="42px" android:layout_x="504px" android:layout_y="839px">
+                                  <android.widget.CheckBox android:checkable="true" android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="-9111px" android:layout_width="42px" android:layout_x="504px" android:layout_y="839px" android:text="Save article for reading later..."/>
+                                </android.view.View>
+                              </android.widget.ListView>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-7696px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                              <android.view.View android:enabled="true" android:layout_height="1258px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px"/>
+                              <android.view.View android:enabled="true" android:layout_height="-7961px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-7961px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                                  <android.view.View android:enabled="true" android:layout_height="-7785px" android:layout_width="1050px" android:layout_x="15px" android:layout_y="839px"/>
+                                  <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-7961px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px"/>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_height="-7696px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px" android:text="media">
+                                <android.view.View android:enabled="true" android:layout_height="-7961px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                                  <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="-7961px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px" android:text="President Biden at Joint Base Andrews, Md., on Wednesday. For Mr. Biden, the agreement shows that his administration is willing to dip more deeply into the nation’s treasury to help out poorer countries."/>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="-7696px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="Credit...Doug Mills/The New York Times"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:clickable="true" android:contentDescription="Sharon LaFraniere" android:enabled="true" android:focusable="true" android:layout_height="-7478px" android:layout_width="162px" android:layout_x="42px" android:layout_y="839px"/>
+                            <android.view.View android:clickable="true" android:contentDescription="Sheryl Gay Stolberg" android:enabled="true" android:focusable="true" android:layout_height="-7478px" android:layout_width="163px" android:layout_x="199px" android:layout_y="839px"/>
+                            <android.view.View android:clickable="true" android:contentDescription="Noah Weiland" android:enabled="true" android:focusable="true" android:layout_height="-7478px" android:layout_width="162px" android:layout_x="357px" android:layout_y="839px"/>
+                            <android.view.View android:enabled="true" android:layout_height="-7363px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px">
+                              <android.view.View android:enabled="true" android:layout_height="-7363px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-7413px" android:layout_width="56px" android:layout_x="49px" android:layout_y="839px" android:text="By "/>
+                                <android.view.View android:clickable="true" android:contentDescription="Sharon LaFraniere" android:enabled="true" android:focusable="true" android:layout_height="-7413px" android:layout_width="302px" android:layout_x="99px" android:layout_y="839px">
+                                  <android.widget.TextView android:enabled="true" android:layout_height="-7413px" android:layout_width="302px" android:layout_x="99px" android:layout_y="839px" android:text="Sharon LaFraniere"/>
+                                </android.view.View>
+                                <android.widget.TextView android:enabled="true" android:layout_height="-7413px" android:layout_width="21px" android:layout_x="399px" android:layout_y="839px" android:text=", "/>
+                                <android.view.View android:clickable="true" android:contentDescription="Sheryl Gay Stolberg" android:enabled="true" android:focusable="true" android:layout_height="-7413px" android:layout_width="325px" android:layout_x="417px" android:layout_y="839px">
+                                  <android.widget.TextView android:enabled="true" android:layout_height="-7413px" android:layout_width="325px" android:layout_x="417px" android:layout_y="839px" android:text="Sheryl Gay Stolberg"/>
+                                </android.view.View>
+                                <android.widget.TextView android:enabled="true" android:layout_height="-7413px" android:layout_width="71px" android:layout_x="740px" android:layout_y="839px" android:text=" and "/>
+                                <android.view.View android:clickable="true" android:contentDescription="Noah Weiland" android:enabled="true" android:focusable="true" android:layout_height="-7368px" android:layout_width="226px" android:layout_x="49px" android:layout_y="839px">
+                                  <android.widget.TextView android:enabled="true" android:layout_height="-7368px" android:layout_width="226px" android:layout_x="49px" android:layout_y="839px" android:text="Noah Weiland"/>
+                                </android.view.View>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-7266px" android:layout_width="229px" android:layout_x="49px" android:layout_y="839px" android:text="June 9, 2021"/>
+                          </android.view.View>
+                          <android.view.View android:enabled="true" android:layout_height="1258px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                            <android.view.View android:enabled="true" android:layout_height="-6696px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="WASHINGTON — President Biden, under pressure to aggressively address the global coronavirus vaccine shortage, will announce as early as Thursday that his administration will buy 500 million doses of the Pfizer-BioNTech vaccine and donate them among about 100 countries over the next year, according to people familiar with the plan."/>
+                            <android.view.View android:enabled="true" android:layout_height="-6271px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="-6541px" android:layout_width="977px" android:layout_x="49px" android:layout_y="839px" android:text="The White House reached the deal just in time for "/>
+                              <android.view.View android:clickable="true" android:contentDescription="Mr. Biden’s eight-day European trip" android:enabled="true" android:focusable="true" android:layout_height="-6541px" android:layout_width="759px" android:layout_x="120px" android:layout_y="839px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-6541px" android:layout_width="759px" android:layout_x="120px" android:layout_y="839px" android:text="Mr. Biden’s eight-day European trip"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-6281px" android:layout_width="977px" android:layout_x="49px" android:layout_y="839px" android:text=", which is his first opportunity to reassert the United States as a world leader and restore relations that were badly frayed by President Donald J. Trump."/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-5719px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="-6053px" android:layout_width="911px" android:layout_x="49px" android:layout_y="839px" android:text="“We have to end Covid-19, not just at home, which we’re doing, but everywhere,” Mr. Biden "/>
+                              <android.view.View android:clickable="true" android:contentDescription="told American troops" android:enabled="true" android:focusable="true" android:layout_height="-6053px" android:layout_width="444px" android:layout_x="186px" android:layout_y="839px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-6053px" android:layout_width="444px" android:layout_x="186px" android:layout_y="839px" android:text="told American troops"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-5727px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text=" after landing at R.A.F. Mildenhall in Suffolk, England. “There’s no wall high enough to keep us safe from this pandemic or the next biological threat we face, and there will be others. It requires coordinated multilateral action.”"/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-5166px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="People familiar with the Pfizer deal said the United States would pay for the doses at a “not for profit” price. The first 200 million doses will be distributed by the end of this year, followed by 300 million by next June, they said. The doses will be distributed through Covax, the international vaccine-sharing initiative."/>
+                            <android.view.View android:enabled="true" android:focusable="true" android:layout_height="-4370px" android:layout_width="790px" android:layout_x="147px" android:layout_y="839px">
+                              <android.view.View android:enabled="true" android:layout_height="-4370px" android:layout_width="790px" android:layout_x="147px" android:layout_y="839px" android:scrollable="true"/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-3895px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="Mr. Biden is in Europe for a week to attend the NATO and Group of 7 summits and to meet with President Vladimir V. Putin of Russia in Geneva. He is likely to use the trip to call on other nations to step up vaccine distribution."/>
+                            <android.view.View android:enabled="true" android:layout_height="-3344px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="In a statement on Wednesday, Jeffrey D. Zients, the White House official in charge of devising a global vaccination strategy, said Mr. Biden would “rally the world’s democracies around solving this crisis globally, with America leading the way to create the arsenal of vaccines that will be critical in our global fight against Covid-19.”"/>
+                            <android.view.View android:enabled="true" android:layout_height="-2596px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="The White House is trying to spotlight its success in fighting the pandemic — particularly its vaccination campaign — and use that success as a diplomatic tool, especially as China and Russia seek to do the same. Mr. Biden has been insistent that, unlike China and Russia, which have been sharing their vaccines with dozens of countries, the United States will not seek to extract promises from countries receiving American-made vaccines."/>
+                            <android.view.View android:enabled="true" android:layout_height="-1199px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                              <android.view.View android:enabled="true" android:layout_height="1258px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px"/>
+                              <android.view.View android:enabled="true" android:layout_height="-1417px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-1417px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                                  <android.view.View android:enabled="true" android:layout_height="-1241px" android:layout_width="1050px" android:layout_x="15px" android:layout_y="839px"/>
+                                  <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-1417px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px"/>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_height="-1199px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px" android:text="media">
+                                <android.view.View android:enabled="true" android:layout_height="-1417px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px">
+                                  <android.widget.TextView android:enabled="true" android:layout_height="-2457px" android:layout_width="128px" android:layout_x="-5px" android:layout_y="839px" android:text="Image"/>
+                                  <android.widget.Image android:clickable="true" android:enabled="true" android:layout_height="-1417px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px" android:text="AstraZeneca vaccines being delivered in Mexico City under Covax, the international vaccine-sharing initiative. The program will distribute the 500 million doses that the Biden administration will donate."/>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="-1199px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="Credit...Henry Romero/Reuters"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-388px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="-593px" android:layout_width="974px" android:layout_x="49px" android:layout_y="839px" android:text="The 500 million doses still fall far short of the 11 billion the World Health Organization estimates are needed to vaccinate the world, but significantly exceed what the United States has committed to share so far. Other nations have been pleading with the United States to give up some of its abundant vaccine supplies. Less than 1 percent of people are "/>
+                              <android.view.View android:clickable="true" android:contentDescription="fully vaccinated" android:enabled="true" android:focusable="true" android:layout_height="-527px" android:layout_width="339px" android:layout_x="49px" android:layout_y="839px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-527px" android:layout_width="339px" android:layout_x="49px" android:layout_y="839px" android:text="fully vaccinated"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-396px" android:layout_width="901px" android:layout_x="49px" android:layout_y="839px" android:text=" in a number of African countries, compared with 42 percent in the United States and the United Kingdom."/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="173px" android:layout_width="982px" android:layout_x="49px" android:layout_y="839px" android:text="Advocates for global health welcomed the news, but reiterated their stance that it is not enough for the United States to simply give vaccine away. They say the Biden administration must create the conditions for other countries to manufacture vaccines on their own, including transferring technology to make the doses."/>
+                            <android.view.View android:enabled="true" android:layout_height="653px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1041px" android:text="“The world needs urgent new manufacturing to produce billions more doses within a year, not just commitments to buy the planned inadequate supply,” Peter Maybarduk, the director of Public Citizen’s Access to Medicines program, said in a statement. He added, “We have yet to see a plan from the U.S. government or the G7 of the needed ambition or urgency to make billions more doses and end the pandemic.”"/>
+                            <android.view.View android:enabled="true" android:layout_height="374px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1723px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="363px" android:layout_width="956px" android:layout_x="49px" android:layout_y="1734px" android:text="The deal with Pfizer has the potential to open the door to similar agreements with other vaccine manufacturers, including Moderna, whose vaccine was developed with American tax dollars — unlike Pfizer’s. In addition, the Biden administration has brokered a deal in which "/>
+                              <android.view.View android:clickable="true" android:contentDescription="Merck will help produce" android:enabled="true" android:focusable="true" android:layout_height="-25px" android:layout_width="511px" android:layout_x="189px" android:layout_y="2122px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-25px" android:layout_width="511px" android:layout_x="189px" android:layout_y="2122px" android:text="Merck will help produce"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-25px" android:layout_width="938px" android:layout_x="49px" android:layout_y="2122px" android:text=" Johnson &amp; Johnson’s vaccine, and those doses might be available for overseas use."/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:focusable="true" android:layout_height="-351px" android:layout_width="790px" android:layout_x="147px" android:layout_y="2448px">
+                              <android.view.View android:enabled="true" android:layout_height="-351px" android:layout_width="790px" android:layout_x="147px" android:layout_y="2448px" android:scrollable="true"/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-1157px" android:layout_width="982px" android:layout_x="49px" android:layout_y="3254px" android:text="The United States has already contracted to buy 300 million doses of the Pfizer-BioNTech vaccine, which requires two shots, for distribution in the United States; the 500 million doses are in addition to that, according to people familiar with the deal."/>
+                            <android.view.View android:enabled="true" android:layout_height="-1611px" android:layout_width="982px" android:layout_x="49px" android:layout_y="3708px" android:text="Updates">
+                              <android.view.View android:enabled="true" android:layout_height="-1653px" android:layout_width="898px" android:layout_x="91px" android:layout_y="3750px" android:text="Biden in Europe"/>
+                              <android.view.View android:enabled="true" android:id="@storyline-latest-updates" android:layout_height="-1726px" android:layout_width="898px" android:layout_x="91px" android:layout_y="3823px" android:text="Updates">
+                                <android.view.View android:clickable="true" android:contentDescription="Updates" android:enabled="true" android:focusable="true" android:layout_height="-1729px" android:layout_width="176px" android:layout_x="91px" android:layout_y="3826px">
+                                  <android.widget.TextView android:enabled="true" android:layout_height="-1729px" android:layout_width="176px" android:layout_x="91px" android:layout_y="3826px" android:text="Updates"/>
+                                </android.view.View>
+                                <android.widget.TextView android:enabled="true" android:layout_height="-1729px" android:layout_width="19px" android:layout_x="275px" android:layout_y="3826px" android:text="›"/>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_height="-1794px" android:layout_width="898px" android:layout_x="91px" android:layout_y="3891px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-1794px" android:layout_width="126px" android:layout_x="91px" android:layout_y="3891px" android:text="Updated "/>
+                                <android.view.View android:enabled="true" android:layout_height="-1794px" android:layout_width="373px" android:layout_x="212px" android:layout_y="3891px" android:text="June 9, 2021, 8:50 p.m. ET6 hours ago"/>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_height="-1821px" android:layout_width="8px" android:layout_x="89px" android:layout_y="3918px" android:text="6 hours ago"/>
+                              <android.widget.ListView android:enabled="true" android:layout_height="-1863px" android:layout_width="898px" android:layout_x="91px" android:layout_y="3960px">
+                                <android.view.View android:enabled="true" android:layout_height="-1863px" android:layout_width="856px" android:layout_x="133px" android:layout_y="3960px">
+                                  <android.view.View android:enabled="true" android:layout_height="-1863px" android:layout_width="18px" android:layout_x="105px" android:layout_y="3960px" android:text="• "/>
+                                  <android.view.View android:clickable="true" android:contentDescription="Transcript: President Biden’s remarks to U.S. Air Force members in England." android:enabled="true" android:focusable="true" android:layout_height="-1871px" android:layout_width="854px" android:layout_x="133px" android:layout_y="3968px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="-1871px" android:layout_width="854px" android:layout_x="133px" android:layout_y="3968px" android:text="Transcript: President Biden’s remarks to U.S. Air Force members in England."/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="-2010px" android:layout_width="856px" android:layout_x="133px" android:layout_y="4107px">
+                                  <android.view.View android:enabled="true" android:layout_height="-2010px" android:layout_width="18px" android:layout_x="105px" android:layout_y="4107px" android:text="• "/>
+                                  <android.view.View android:clickable="true" android:contentDescription="Johnson and Biden are expected to discuss rising tensions in Northern Ireland." android:enabled="true" android:focusable="true" android:layout_height="-2018px" android:layout_width="770px" android:layout_x="133px" android:layout_y="4115px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="-2018px" android:layout_width="770px" android:layout_x="133px" android:layout_y="4115px" android:text="Johnson and Biden are expected to discuss rising tensions in Northern Ireland."/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="-2154px" android:layout_width="856px" android:layout_x="133px" android:layout_y="4251px">
+                                  <android.view.View android:enabled="true" android:layout_height="-2154px" android:layout_width="18px" android:layout_x="105px" android:layout_y="4251px" android:text="• "/>
+                                  <android.view.View android:clickable="true" android:contentDescription="Russia outlawed Navalny’s opposition group, a signal before Putin’s meeting with Biden." android:enabled="true" android:focusable="true" android:layout_height="-2162px" android:layout_width="822px" android:layout_x="133px" android:layout_y="4259px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="-2162px" android:layout_width="822px" android:layout_x="133px" android:layout_y="4259px" android:text="Russia outlawed Navalny’s opposition group, a signal before Putin’s meeting with Biden."/>
+                                  </android.view.View>
+                                </android.view.View>
+                              </android.widget.ListView>
+                              <android.view.View android:enabled="true" android:id="@storyline-survey-latest-updates" android:layout_height="-2301px" android:layout_width="898px" android:layout_x="91px" android:layout_y="4398px"/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-2422px" android:layout_width="982px" android:layout_x="49px" android:layout_y="4519px" android:text="Neither Pfizer nor administration officials would say what the company is charging the government for the doses. Pfizer is also offering the Biden administration an option to buy another 200 million doses at cost to be donated overseas."/>
+                            <android.view.View android:enabled="true" android:layout_height="-2844px" android:layout_width="982px" android:layout_x="49px" android:layout_y="4941px" android:text="For Pfizer, the decision to sell the Biden administration so much supply without making a profit is a significant step."/>
+                            <android.view.View android:enabled="true" android:layout_height="-3073px" android:layout_width="982px" android:layout_x="49px" android:layout_y="5170px" android:text="Its vaccine accounted for $3.5 billion in revenue in the first three months of this year, nearly a quarter of Pfizer’s total revenue. By some estimates, the firm earned roughly $900 million in pretax profits from the vaccine during the first quarter."/>
+                            <android.view.View android:enabled="true" android:layout_height="-3506px" android:layout_width="982px" android:layout_x="49px" android:layout_y="5603px" android:text="But the company also faced criticism that it was disproportionately aiding wealthy nations, even though Pfizer’s chief executive, Albert Bourla, had promised in January to help ensure that “developing countries have the same access as the rest of the world.”"/>
+                            <android.view.View android:enabled="true" android:layout_height="-3929px" android:layout_width="982px" android:layout_x="49px" android:layout_y="6026px" android:text="The 200 million Pfizer doses that the Biden administration plans to donate this year amount to about 7 percent of the three billion doses that the company is expected to produce. Pfizer expects to provide another 800 million doses to lower- or lower-middle-income countries through other agreements with individual countries or Covax, a spokeswoman said."/>
+                            <android.view.View android:enabled="true" android:layout_height="-4545px" android:layout_width="982px" android:layout_x="49px" android:layout_y="6642px" android:text="For Mr. Biden, the agreement shows that his administration is willing to dip more deeply into the nation’s treasury to help out poorer countries."/>
+                            <android.view.View android:enabled="true" android:layout_height="-4837px" android:layout_width="982px" android:layout_x="49px" android:layout_y="6934px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="-4847px" android:layout_width="922px" android:layout_x="49px" android:layout_y="6944px" android:text="Last week, Mr. Biden said the United States would "/>
+                              <android.view.View android:clickable="true" android:contentDescription="distribute 25 million doses" android:enabled="true" android:focusable="true" android:layout_height="-4913px" android:layout_width="556px" android:layout_x="189px" android:layout_y="7010px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-4913px" android:layout_width="556px" android:layout_x="189px" android:layout_y="7010px" android:text="distribute 25 million doses"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-4913px" android:layout_width="935px" android:layout_x="49px" android:layout_y="7010px" android:text=" this month to countries in the Caribbean and Latin America; South and Southeast Asia; Africa; and the Palestinian territories, Gaza and the West Bank."/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-5262px" android:layout_width="982px" android:layout_x="49px" android:layout_y="7359px" android:text="Those doses are the first of 80 million that Mr. Biden pledged to send abroad by the end of June; three-quarters of them will be distributed by Covax. The rest will go toward addressing pressing and urgent crises in places like India and the West Bank and Gaza, administration officials have said. Many of the 80 million doses were made by AstraZeneca and are still tied up in a complex review by the Food and Drug Administration."/>
+                            <android.view.View android:enabled="true" android:layout_height="-6008px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="8105px">
+                              <android.view.View android:enabled="true" android:layout_height="1258px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="839px"/>
+                              <android.view.View android:enabled="true" android:layout_height="-6008px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="8105px">
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-6008px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="8105px">
+                                  <android.view.View android:enabled="true" android:layout_height="-6997px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="9094px"/>
+                                  <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-6008px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="8105px"/>
+                                </android.view.View>
+                              </android.view.View>
+                              <android.view.View android:enabled="true" android:layout_height="-6008px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="8105px" android:text="media">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-6002px" android:layout_width="128px" android:layout_x="-5px" android:layout_y="8099px" android:text="Image"/>
+                                <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-6008px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="8105px">
+                                  <android.view.View android:enabled="true" android:layout_height="-6008px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="8105px">
+                                    <android.widget.Image android:enabled="true" android:layout_height="-6008px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="8105px" android:text="A popup vaccine site in Brooklyn in May. About 64 percent of adults in the United States have received at least one shot."/>
+                                  </android.view.View>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="-6756px" android:layout_width="982px" android:layout_x="49px" android:layout_y="8853px" android:text="Credit...James Estrin/The New York Times"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-6995px" android:layout_width="982px" android:layout_x="49px" android:layout_y="9092px" android:text="Mr. Biden has also committed to supporting a waiver of an international intellectual property agreement, which would make it harder for companies to refuse to share their technology. But European leaders are blocking the proposed waiver, and pharmaceutical companies are strongly opposed to it. The World Trade Organization’s Council for Trade-Related Aspects of Intellectual Property Rights is meeting this week to consider the waiver."/>
+                            <android.view.View android:enabled="true" android:layout_height="-7751px" android:layout_width="982px" android:layout_x="49px" android:layout_y="9848px" android:text="The president’s promise of vaccines for the global market comes as he prepares to meet on Thursday with Prime Minister Boris Johnson of Britain, who has called on leaders to commit to vaccinating everyone in the world by the end of 2022. Mr. Biden’s announcement is likely to be welcome news for Mr. Johnson, whose critics have questioned where the money will come from to meet his pledge."/>
+                            <android.view.View android:enabled="true" android:layout_height="-8436px" android:layout_width="982px" android:layout_x="49px" android:layout_y="10533px" android:text="“The truth is that world leaders have been kicking the can down the road for months — to the point where they have run out of road,” Edwin Ikhouria, the executive director for Africa at the ONE Campaign, a nonprofit aimed at eradicating global poverty, said in a statement on Wednesday."/>
+                            <android.view.View android:enabled="true" android:layout_height="-8921px" android:layout_width="982px" android:layout_x="49px" android:layout_y="11018px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="-8932px" android:layout_width="840px" android:layout_x="49px" android:layout_y="11029px" android:text="About 64 percent of adults in the United States "/>
+                              <android.view.View android:clickable="true" android:contentDescription="are at least partly vaccinated" android:enabled="true" android:focusable="true" android:layout_height="-8995px" android:layout_width="617px" android:layout_x="191px" android:layout_y="11092px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-8995px" android:layout_width="617px" android:layout_x="191px" android:layout_y="11092px" android:text="are at least partly vaccinated"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-8995px" android:layout_width="969px" android:layout_x="49px" android:layout_y="11092px" android:text=", and the president has set a goal of bringing that number up to 70 percent by July 4. The pace of vaccination has dropped sharply since mid-April, leading the Biden administration to pursue a strategy of greater accessibility and incentives to reach Americans who have not yet gotten shots."/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-9541px" android:layout_width="982px" android:layout_x="49px" android:layout_y="11638px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="-9549px" android:layout_width="714px" android:layout_x="49px" android:layout_y="11646px" android:text="In spite of those efforts, there are "/>
+                              <android.view.View android:clickable="true" android:contentDescription="unused vaccine doses that could go to waste" android:enabled="true" android:focusable="true" android:layout_height="-9549px" android:layout_width="867px" android:layout_x="49px" android:layout_y="11646px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-9549px" android:layout_width="867px" android:layout_x="49px" android:layout_y="11646px" android:text="unused vaccine doses that could go to waste"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-9614px" android:layout_width="898px" android:layout_x="49px" android:layout_y="11711px" android:text=". Once thawed, doses have a limited shelf life and millions could begin expiring within two weeks, according to federal officials."/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-9898px" android:layout_width="982px" android:layout_x="49px" android:layout_y="11995px" android:text="Providing equitable access to vaccines has become one of the most intractable challenges to reining in the pandemic. Wealthier nations and private entities have pledged tens of millions of doses and billions of dollars to shore up global supplies, but the disparity in vaccine allocations so far has been stark."/>
+                            <android.view.View android:enabled="true" android:layout_height="-10386px" android:layout_width="982px" android:layout_x="49px" android:layout_y="12483px">
+                              <android.widget.TextView android:enabled="true" android:layout_height="-10394px" android:layout_width="980px" android:layout_x="49px" android:layout_y="12491px" android:text="Dr. Tedros Adhanom Ghebreyesus, the director general of the World Health Organization, warned this week that the world was facing a “"/>
+                              <android.view.View android:clickable="true" android:contentDescription="two-track pandemic" android:enabled="true" android:focusable="true" android:layout_height="-10591px" android:layout_width="423px" android:layout_x="343px" android:layout_y="12688px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-10591px" android:layout_width="423px" android:layout_x="343px" android:layout_y="12688px" android:text="two-track pandemic"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-10591px" android:layout_width="218px" android:layout_x="763px" android:layout_y="12688px" android:text=",” in which "/>
+                              <android.view.View android:clickable="true" android:contentDescription="countries where vaccines are scarce" android:enabled="true" android:focusable="true" android:layout_height="-10654px" android:layout_width="767px" android:layout_x="49px" android:layout_y="12751px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-10654px" android:layout_width="767px" android:layout_x="49px" android:layout_y="12751px" android:text="countries where vaccines are scarce"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-10654px" android:layout_width="92px" android:layout_x="811px" android:layout_y="12751px" android:text=" will "/>
+                              <android.view.View android:clickable="true" android:contentDescription="struggle with virus cases" android:enabled="true" android:focusable="true" android:layout_height="-10719px" android:layout_width="531px" android:layout_x="49px" android:layout_y="12816px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-10719px" android:layout_width="531px" android:layout_x="49px" android:layout_y="12816px" android:text="struggle with virus cases"/>
+                              </android.view.View>
+                              <android.widget.TextView android:enabled="true" android:layout_height="-10719px" android:layout_width="856px" android:layout_x="49px" android:layout_y="12816px" android:text=" even as better-supplied nations return to normal."/>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-10874px" android:layout_width="982px" android:layout_x="49px" android:layout_y="12971px" android:text="Those lower-income countries will be largely dependent on wealthier ones until vaccines can be distributed and produced on a more equitable basis, he said."/>
+                            <android.view.View android:enabled="true" android:layout_height="-11166px" android:layout_width="982px" android:layout_x="49px" android:layout_y="13263px" android:text="Daniel E. Slotnik contributed reporting from New York, and Michael D. Shear from Plymouth, England."/>
+                          </android.view.View>
+                          <android.view.View android:enabled="true" android:focusable="true" android:layout_height="-11410px" android:layout_width="790px" android:layout_x="147px" android:layout_y="13507px">
+                            <android.view.View android:enabled="true" android:layout_height="-11410px" android:layout_width="790px" android:layout_x="147px" android:layout_y="13507px" android:scrollable="true"/>
+                          </android.view.View>
+                          <android.view.View android:enabled="true" android:layout_height="867px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="1230px" android:text="A message from The Times">
+                            <android.widget.Button android:clickable="true" android:enabled="true" android:focusable="true" android:layout_height="134px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="1235px" android:text="Subscribe for €0.50 a week. Limited time offer. Subscribe for €0.50 a week. Limited time offer. Button to collapse the message"/>
+                            <android.view.View android:enabled="true" android:layout_height="733px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="1364px">
+                              <android.view.View android:enabled="true" android:layout_height="585px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1377px">
+                                <android.view.View android:clickable="true" android:contentDescription="Enjoy unlimited digital access. Normal price: €2 Sale price: €0.5 /week Billed as Normal price: €8 Sale price: €2 every 4 weeks for one year SUBSCRIBE NOW Cancel online anytime." android:enabled="true" android:focusable="true" android:layout_height="454px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1377px">
+                                  <android.view.View android:enabled="true" android:layout_height="81px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1377px" android:text="Enjoy unlimited digital access."/>
+                                  <android.view.View android:enabled="true" android:layout_height="68px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1471px" android:text="Normal price: €2 Sale price: €0.5/week"/>
+                                  <android.view.View android:enabled="true" android:layout_height="50px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1534px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="145px" android:layout_x="49px" android:layout_y="1539px" android:text="Billed as "/>
+                                    <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="45px" android:layout_x="191px" android:layout_y="1539px" android:text="Normal price: €8"/>
+                                    <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="11px" android:layout_x="233px" android:layout_y="1539px" android:text=" "/>
+                                    <android.view.View android:enabled="true" android:layout_height="42px" android:layout_width="45px" android:layout_x="241px" android:layout_y="1539px" android:text="Sale price: €2"/>
+                                    <android.widget.TextView android:enabled="true" android:layout_height="42px" android:layout_width="428px" android:layout_x="283px" android:layout_y="1539px" android:text=" every 4 weeks for one year"/>
+                                  </android.view.View>
+                                  <android.view.View android:clickable="true" android:enabled="true" android:layout_height="118px" android:layout_width="982px" android:layout_x="57px" android:layout_y="1660px" android:text="SUBSCRIBE NOW"/>
+                                  <android.view.View android:enabled="true" android:layout_height="42px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1581px" android:text="Cancel online anytime."/>
+                                </android.view.View>
+                                <android.view.View android:enabled="true" android:layout_height="134px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1828px">
+                                  <android.widget.TextView android:enabled="true" android:layout_height="60px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1839px" android:text="You are purchasing a Basic Digital Access Subscription. You will be automatically charged "/>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="34px" android:layout_x="157px" android:layout_y="1868px" android:text="€2"/>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="425px" android:layout_x="189px" android:layout_y="1868px" android:text=" every 28 days for one year, and "/>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="36px" android:layout_x="609px" android:layout_y="1868px" android:text="€8"/>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="336px" android:layout_x="640px" android:layout_y="1868px" android:text=" every 28 days thereafter. "/>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="63px" android:layout_width="982px" android:layout_x="49px" android:layout_y="1868px" android:text="Your subscription will continue until you "/>
+                                  <android.view.View android:clickable="true" android:contentDescription="cancel" android:enabled="true" android:focusable="true" android:layout_height="32px" android:layout_width="81px" android:layout_x="488px" android:layout_y="1899px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="81px" android:layout_x="488px" android:layout_y="1899px" android:text="cancel"/>
+                                  </android.view.View>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="10px" android:layout_x="567px" android:layout_y="1899px" android:text="."/>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="32px" android:layout_width="457px" android:layout_x="574px" android:layout_y="1899px" android:text=" By subscribing, you are accepting the "/>
+                                  <android.view.View android:clickable="true" android:contentDescription="Terms of Service" android:enabled="true" android:focusable="true" android:layout_height="31px" android:layout_width="197px" android:layout_x="49px" android:layout_y="1931px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="197px" android:layout_x="49px" android:layout_y="1931px" android:text="Terms of Service"/>
+                                  </android.view.View>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="18px" android:layout_x="244px" android:layout_y="1931px" android:text=", "/>
+                                  <android.view.View android:clickable="true" android:contentDescription="Privacy Policy" android:enabled="true" android:focusable="true" android:layout_height="31px" android:layout_width="161px" android:layout_x="259px" android:layout_y="1931px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="161px" android:layout_x="259px" android:layout_y="1931px" android:text="Privacy Policy"/>
+                                  </android.view.View>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="66px" android:layout_x="417px" android:layout_y="1931px" android:text=", and "/>
+                                  <android.view.View android:clickable="true" android:contentDescription="Terms of Sale" android:enabled="true" android:focusable="true" android:layout_height="31px" android:layout_width="160px" android:layout_x="480px" android:layout_y="1931px">
+                                    <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="160px" android:layout_x="480px" android:layout_y="1931px" android:text="Terms of Sale"/>
+                                  </android.view.View>
+                                  <android.widget.TextView android:enabled="true" android:layout_height="31px" android:layout_width="11px" android:layout_x="637px" android:layout_y="1931px" android:text="."/>
+                                </android.view.View>
+                              </android.view.View>
+                            </android.view.View>
+                          </android.view.View>
+                        </android.view.View>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:id="@site-index" android:layout_height="-12216px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="14313px" android:text="Site Index">
+                        <android.view.View android:enabled="true" android:id="@site-index-label" android:layout_height="-12224px" android:layout_width="5px" android:layout_x="-5px" android:layout_y="14321px" android:text="Site Index"/>
+                      </android.view.View>
+                      <android.view.View android:enabled="true" android:layout_height="-12226px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="14323px">
+                        <android.view.View android:enabled="true" android:layout_height="-12226px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="14323px">
+                          <android.view.View android:enabled="true" android:layout_height="-12250px" android:layout_width="5px" android:layout_x="-5px" android:layout_y="14347px" android:text="Site Information Navigation"/>
+                          <android.widget.ListView android:enabled="true" android:layout_height="-12252px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="14349px">
+                            <android.view.View android:enabled="true" android:layout_height="-12252px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="14349px">
+                              <android.view.View android:clickable="true" android:contentDescription="© 2021 The New York Times Company" android:enabled="true" android:focusable="true" android:layout_height="-12226px" android:layout_width="467px" android:layout_x="307px" android:layout_y="14323px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12252px" android:layout_width="31px" android:layout_x="307px" android:layout_y="14349px" android:text="© "/>
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12252px" android:layout_width="68px" android:layout_x="336px" android:layout_y="14349px" android:text="2021"/>
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12252px" android:layout_width="8px" android:layout_x="401px" android:layout_y="14349px" android:text=" "/>
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12252px" android:layout_width="368px" android:layout_x="406px" android:layout_y="14349px" android:text="The New York Times Company"/>
+                              </android.view.View>
+                            </android.view.View>
+                          </android.widget.ListView>
+                          <android.widget.ListView android:enabled="true" android:layout_height="-12321px" android:layout_width="1084px" android:layout_x="0px" android:layout_y="14418px">
+                            <android.view.View android:enabled="true" android:layout_height="-12321px" android:layout_width="139px" android:layout_x="89px" android:layout_y="14418px">
+                              <android.view.View android:clickable="true" android:contentDescription="NYTCo" android:enabled="true" android:focusable="true" android:layout_height="-12308px" android:layout_width="87px" android:layout_x="115px" android:layout_y="14405px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12334px" android:layout_width="87px" android:layout_x="115px" android:layout_y="14431px" android:text="NYTCo"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12321px" android:layout_width="192px" android:layout_x="225px" android:layout_y="14418px">
+                              <android.view.View android:clickable="true" android:contentDescription="Contact Us" android:enabled="true" android:focusable="true" android:layout_height="-12308px" android:layout_width="139px" android:layout_x="252px" android:layout_y="14405px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12334px" android:layout_width="139px" android:layout_x="252px" android:layout_y="14431px" android:text="Contact Us"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12321px" android:layout_width="204px" android:layout_x="412px" android:layout_y="14418px">
+                              <android.view.View android:clickable="true" android:contentDescription="Accessibility" android:enabled="true" android:focusable="true" android:layout_height="-12308px" android:layout_width="152px" android:layout_x="438px" android:layout_y="14405px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12334px" android:layout_width="152px" android:layout_x="438px" android:layout_y="14431px" android:text="Accessibility"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12321px" android:layout_width="212px" android:layout_x="614px" android:layout_y="14418px">
+                              <android.view.View android:clickable="true" android:contentDescription="Work with us" android:enabled="true" android:focusable="true" android:layout_height="-12308px" android:layout_width="160px" android:layout_x="640px" android:layout_y="14405px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12334px" android:layout_width="160px" android:layout_x="640px" android:layout_y="14431px" android:text="Work with us"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12321px" android:layout_width="171px" android:layout_x="821px" android:layout_y="14418px">
+                              <android.view.View android:clickable="true" android:contentDescription="Advertise" android:enabled="true" android:focusable="true" android:layout_height="-12308px" android:layout_width="119px" android:layout_x="847px" android:layout_y="14405px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12334px" android:layout_width="119px" android:layout_x="847px" android:layout_y="14431px" android:text="Advertise"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12376px" android:layout_width="239px" android:layout_x="60px" android:layout_y="14473px">
+                              <android.view.View android:clickable="true" android:contentDescription="T Brand Studio" android:enabled="true" android:focusable="true" android:layout_height="-12363px" android:layout_width="187px" android:layout_x="86px" android:layout_y="14460px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12389px" android:layout_width="187px" android:layout_x="86px" android:layout_y="14486px" android:text="T Brand Studio"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12376px" android:layout_width="252px" android:layout_x="294px" android:layout_y="14473px">
+                              <android.view.View android:clickable="true" android:contentDescription="Your Ad Choices" android:enabled="true" android:focusable="true" android:layout_height="-12363px" android:layout_width="199px" android:layout_x="320px" android:layout_y="14460px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12389px" android:layout_width="199px" android:layout_x="320px" android:layout_y="14486px" android:text="Your Ad Choices"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12376px" android:layout_width="223px" android:layout_x="543px" android:layout_y="14473px">
+                              <android.view.View android:clickable="true" android:contentDescription="Privacy Policy" android:enabled="true" android:focusable="true" android:layout_height="-12363px" android:layout_width="171px" android:layout_x="569px" android:layout_y="14460px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12389px" android:layout_width="171px" android:layout_x="569px" android:layout_y="14486px" android:text="Privacy Policy"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12376px" android:layout_width="258px" android:layout_x="763px" android:layout_y="14473px">
+                              <android.view.View android:clickable="true" android:contentDescription="Terms of Service" android:enabled="true" android:focusable="true" android:layout_height="-12363px" android:layout_width="207px" android:layout_x="787px" android:layout_y="14460px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12389px" android:layout_width="207px" android:layout_x="787px" android:layout_y="14486px" android:text="Terms of Service"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12431px" android:layout_width="221px" android:layout_x="10px" android:layout_y="14528px">
+                              <android.view.View android:clickable="true" android:contentDescription="Terms of Sale" android:enabled="true" android:focusable="true" android:layout_height="-12415px" android:layout_width="168px" android:layout_x="36px" android:layout_y="14512px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12444px" android:layout_width="168px" android:layout_x="36px" android:layout_y="14541px" android:text="Terms of Sale"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12431px" android:layout_width="163px" android:layout_x="228px" android:layout_y="14528px">
+                              <android.view.View android:clickable="true" android:contentDescription="Site Map" android:enabled="true" android:focusable="true" android:layout_height="-12415px" android:layout_width="113px" android:layout_x="254px" android:layout_y="14512px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12444px" android:layout_width="113px" android:layout_x="254px" android:layout_y="14541px" android:text="Site Map"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-12431px" android:layout_width="150px" android:layout_x="388px" android:layout_y="14528px">
+                              <android.view.View android:clickable="true" android:contentDescription="Canada" android:enabled="true" android:focusable="true" android:layout_height="-12415px" android:layout_width="97px" android:layout_x="414px" android:layout_y="14512px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12444px" android:layout_width="97px" android:layout_x="414px" android:layout_y="14541px" android:text="Canada"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:clickable="true" android:enabled="true" android:layout_height="-12431px" android:layout_width="213px" android:layout_x="532px" android:layout_y="14528px">
+                              <android.view.View android:clickable="true" android:contentDescription="International" android:enabled="true" android:focusable="true" android:layout_height="-12415px" android:layout_width="158px" android:layout_x="561px" android:layout_y="14512px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12444px" android:layout_width="158px" android:layout_x="561px" android:layout_y="14541px" android:text="International"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12431px" android:layout_width="111px" android:layout_x="742px" android:layout_y="14528px">
+                              <android.view.View android:clickable="true" android:contentDescription="Help" android:enabled="true" android:focusable="true" android:layout_height="-12415px" android:layout_width="60px" android:layout_x="766px" android:layout_y="14512px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12444px" android:layout_width="60px" android:layout_x="766px" android:layout_y="14541px" android:text="Help"/>
+                              </android.view.View>
+                            </android.view.View>
+                            <android.view.View android:enabled="true" android:layout_height="-12431px" android:layout_width="221px" android:layout_x="850px" android:layout_y="14528px">
+                              <android.view.View android:clickable="true" android:contentDescription="Subscriptions" android:enabled="true" android:focusable="true" android:layout_height="-12415px" android:layout_width="168px" android:layout_x="876px" android:layout_y="14512px">
+                                <android.widget.TextView android:enabled="true" android:layout_height="-12444px" android:layout_width="168px" android:layout_x="876px" android:layout_y="14541px" android:text="Subscriptions"/>
+                              </android.view.View>
+                            </android.view.View>
+                          </android.widget.ListView>
+                        </android.view.View>
+                      </android.view.View>
+                    </android.view.View>
+                  </android.view.View>
+                  <android.view.View android:enabled="true" android:layout_height="-10174px" android:layout_width="7px" android:layout_x="-28px" android:layout_y="839px">
+                    <android.view.View android:enabled="true" android:focusable="true" android:layout_height="-10174px" android:layout_width="7px" android:layout_x="-28px" android:layout_y="839px" android:scrollable="true"/>
+                  </android.view.View>
+                </android.webkit.WebView>
+              </android.widget.FrameLayout>
+            </android.widget.FrameLayout>
+            <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/control_container" android:layout_height="168px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+              <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/toolbar_container" android:layout_height="168px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+                <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/toolbar" android:layout_height="147px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="692px">
+                  <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/location_bar" android:layout_height="147px" android:layout_width="807px" android:layout_x="21px" android:layout_y="692px">
+                    <android.widget.LinearLayout android:enabled="true" android:id="@com.android.chrome:id/location_bar_status" android:layout_height="147px" android:layout_width="73px" android:layout_x="42px" android:layout_y="692px">
+                      <android.widget.ImageButton android:clickable="true" android:contentDescription="Connection is secure. Site information" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/location_bar_status_icon" android:layout_height="147px" android:layout_width="63px" android:layout_x="42px" android:layout_y="692px" android:longClickable="true"/>
+                    </android.widget.LinearLayout>
+                    <android.widget.EditText android:clickable="true" android:editable="true" android:enabled="true" android:focusable="true" android:hint="Search or type web address" android:id="@com.android.chrome:id/url_bar" android:inputType="text|textUri" android:layout_height="131px" android:layout_width="692px" android:layout_x="115px" android:layout_y="700px" android:longClickable="true" android:text="nytimes.com/2021/06/09/us/politics/biden-pfizer-vaccine-doses.html"/>
+                  </android.widget.FrameLayout>
+                  <android.widget.LinearLayout android:enabled="true" android:id="@com.android.chrome:id/toolbar_buttons" android:layout_height="147px" android:layout_width="252px" android:layout_x="828px" android:layout_y="692px">
+                    <android.widget.ImageButton android:clickable="true" android:contentDescription="162 open tabs, tap to switch tabs" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/tab_switcher_button" android:layout_height="147px" android:layout_width="126px" android:layout_x="828px" android:layout_y="692px" android:longClickable="true"/>
+                    <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/menu_button_wrapper" android:layout_height="147px" android:layout_width="126px" android:layout_x="954px" android:layout_y="692px">
+                      <android.widget.ImageButton android:clickable="true" android:contentDescription="More options" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/menu_button" android:layout_height="147px" android:layout_width="126px" android:layout_x="954px" android:layout_y="692px"/>
+                    </android.widget.FrameLayout>
+                  </android.widget.LinearLayout>
+                </android.widget.FrameLayout>
+                <android.widget.ImageView android:enabled="true" android:id="@com.android.chrome:id/toolbar_shadow" android:layout_height="21px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="839px"/>
+              </android.widget.FrameLayout>
+            </android.widget.FrameLayout>
+            <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/bottom_controls" android:layout_height="147px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2073px">
+              <android.widget.LinearLayout android:enabled="true" android:id="@com.android.chrome:id/bottom_controls_wrapper" android:layout_height="147px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2073px">
+                <android.widget.ImageView android:enabled="true" android:id="@com.android.chrome:id/bottom_container_top_shadow" android:layout_height="21px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2073px"/>
+                <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/bottom_container_slot" android:layout_height="126px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2094px">
+                  <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/tab_group_ui_toolbar_view" android:layout_height="126px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2094px">
+                    <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2094px">
+                      <android.widget.LinearLayout android:enabled="true" android:id="@com.android.chrome:id/main_content" android:layout_height="126px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2094px">
+                        <android.widget.ImageView android:clickable="true" android:contentDescription="Show group's tabs in fullscreen grid" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/toolbar_left_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="0px" android:layout_y="2094px"/>
+                        <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/toolbar_container_view" android:layout_height="126px" android:layout_width="828px" android:layout_x="126px" android:layout_y="2094px">
+                          <androidx.recyclerview.widget.RecyclerView android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/tab_list_view" android:layout_height="126px" android:layout_width="828px" android:layout_x="126px" android:layout_y="2094px" android:scrollable="true">
+                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="51px" android:layout_x="126px" android:layout_y="2094px">
+                              <android.widget.ImageButton android:clickable="true" android:contentDescription="json2table · Actions · GitHub Marketplace, tab" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/tab_strip_item_button" android:layout_height="126px" android:layout_width="51px" android:layout_x="126px" android:layout_y="2094px"/>
+                            </android.widget.FrameLayout>
+                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="177px" android:layout_y="2094px">
+                              <android.widget.ImageButton android:clickable="true" android:contentDescription="zynICBench/json-creator, tab" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/tab_strip_item_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="177px" android:layout_y="2094px"/>
+                            </android.widget.FrameLayout>
+                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="303px" android:layout_y="2094px">
+                              <android.widget.ImageButton android:clickable="true" android:contentDescription="Prettify XML - Best Online Tool to Prettify XML, tab" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/tab_strip_item_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="303px" android:layout_y="2094px"/>
+                            </android.widget.FrameLayout>
+                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="429px" android:layout_y="2094px">
+                              <android.widget.ImageButton android:clickable="true" android:contentDescription="hjson/hjson-js: Hjson for JavaScript, tab" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/tab_strip_item_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="429px" android:layout_y="2094px"/>
+                            </android.widget.FrameLayout>
+                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="555px" android:layout_y="2094px">
+                              <android.widget.ImageButton android:clickable="true" android:contentDescription="A query optimization assistant for XPath | Proceedings of the 14th International Conference on Extending Database Technology, tab" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/tab_strip_item_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="555px" android:layout_y="2094px"/>
+                            </android.widget.FrameLayout>
+                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="681px" android:layout_y="2094px">
+                              <android.widget.ImageButton android:clickable="true" android:contentDescription="Online XPath Tester and Evaluator, tab" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/tab_strip_item_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="681px" android:layout_y="2094px"/>
+                            </android.widget.FrameLayout>
+                            <android.widget.FrameLayout android:enabled="true" android:layout_height="126px" android:layout_width="126px" android:layout_x="807px" android:layout_y="2094px">
+                              <android.widget.ImageButton android:clickable="true" android:contentDescription="Close New tab tab" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/tab_strip_item_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="807px" android:layout_y="2094px"/>
+                            </android.widget.FrameLayout>
+                          </androidx.recyclerview.widget.RecyclerView>
+                        </android.widget.FrameLayout>
+                        <android.widget.ImageView android:clickable="true" android:contentDescription="Add new tab to group" android:enabled="true" android:focusable="true" android:id="@com.android.chrome:id/toolbar_right_button" android:layout_height="126px" android:layout_width="126px" android:layout_x="954px" android:layout_y="2094px"/>
+                      </android.widget.LinearLayout>
+                      <android.widget.ImageView android:enabled="true" android:id="@com.android.chrome:id/tab_strip_fading_edge_start" android:layout_height="126px" android:layout_width="21px" android:layout_x="126px" android:layout_y="2094px"/>
+                      <android.widget.ImageView android:enabled="true" android:id="@com.android.chrome:id/tab_strip_fading_edge_end" android:layout_height="126px" android:layout_width="21px" android:layout_x="933px" android:layout_y="2094px"/>
+                    </android.widget.FrameLayout>
+                  </android.widget.FrameLayout>
+                </android.widget.FrameLayout>
+              </android.widget.LinearLayout>
+            </android.widget.FrameLayout>
+            <android.widget.FrameLayout android:enabled="true" android:id="@com.android.chrome:id/bottom_container" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2094px">
+              <android.widget.FrameLayout android:enabled="true" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2094px">
+                <android.widget.FrameLayout android:enabled="true" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2094px"/>
+              </android.widget.FrameLayout>
+            </android.widget.FrameLayout>
+          </android.view.ViewGroup>
+          <android.view.View android:enabled="true" android:id="@com.android.chrome:id/navigation_popup_anchor_stub" android:layout_height="0px" android:layout_width="1080px" android:layout_x="0px" android:layout_y="2220px"/>
+          <android.view.View android:enabled="true" android:id="@com.android.chrome:id/menu_anchor_stub" android:layout_height="0px" android:layout_width="0px" android:layout_x="0px" android:layout_y="2220px"/>
+        </android.widget.FrameLayout>
+      </android.widget.FrameLayout>
+    </android.widget.FrameLayout>
+  </android.widget.LinearLayout>
+</android.widget.FrameLayout>
