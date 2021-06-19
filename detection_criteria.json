@@ -1,34 +1,19 @@
 {
   "ad_skip_buttons": [
     {
-      "id": "com.google.android.apps.youtube.music:id/dismiss_button"
-    },
-    {
-      "id": "com.google.android.apps.youtube.music:id/dismiss"
+      "id": "com.google.android.apps.youtube.music:id/dismiss(_button)?"
     },
     {
       "id": ".*:id/banderol_close"
     },
     {
-      "id": ".*:id/skip_ad_button"
-    },
-    {
-      "id": ".*:id/skip_ad_button_text"
-    },
-    {
-      "id": ".*:id/skip_ad_button_container"
-    },
-    {
-      "id": ".*:id/skip_ad_text"
+      "id": ".*:id/skip_ad(_button)?(_text|_container)?"
     },
     {
       "text": "Close ad panel"
     },
     {
-      "text": "Ignorer l'annonce"
-    },
-    {
-      "text": "Passer l'annonce"
+      "text": "(Pass|Ignor)er l(es |')annonces?"
     },
     {
       "text": "Skip ads?"
@@ -37,7 +22,7 @@
       "text": "略過廣告"
     },
     {
-      "text": "Werbung überspringen"
+      "text": "Werbung(en)? überspringen"
     }
   ],
   "ad_playing_indicators": [
@@ -71,10 +56,7 @@
       "id": "com.google.android.youtube:id/hide_controls_button_top"
     },
     {
-      "id": "close_button"
-    },
-    {
-      "id": "close_video_button"
+      "id": "close_(video_)?button"
     }
   ]
 }
